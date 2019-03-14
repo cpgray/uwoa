@@ -13,4 +13,5 @@ with open('data/2017-extract-chris.csv', 'rt',encoding='Windows-1252',newline='\
         data = json.loads(content)
         if data['is_oa']:
             #print(json.dumps(data, indent=2))
-            print(data['is_oa'], data['oa_status'], data['publisher'], doi)
+            print('{0},{1},{2},{3}'.format(data['is_oa'], data['oa_status'],
+                                       data['publisher'], doi))
