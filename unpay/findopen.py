@@ -11,4 +11,6 @@ with open('data/2017-extract-chris.csv', 'rt',encoding='Windows-1252',newline='\
         resp = urllib.request.urlopen(apiurl)
         content = resp.read().decode('utf-8')
         data = json.loads(content)
-        print(data['is_oa'], '\t', r['OA model'], '\t', doi)
+        if data['is_oa']:
+            #print(json.dumps(data, indent=2))
+            print(data['is_oa'], data['oa_status'], data['publisher'], doi)
