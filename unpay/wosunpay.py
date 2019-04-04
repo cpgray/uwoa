@@ -4,6 +4,8 @@ import urllib.request
 from urllib.parse import quote
 from collections import defaultdict
 
+errorlog = open('unpay/error.txt', 'wt')
+
 publishers = defaultdict(list)
 
 # wosout.fieldnames =
@@ -15,13 +17,18 @@ publishers = defaultdict(list)
 
 with open('data/OA 2013-2017.csv', 'rt', newline='\n') as wosout:
     rdr = csv.DictReader(wosout)
-    count=0
+    #count=0
     for r in rdr:
-        count += 1
+        #count += 1
         
         doi = quote(r['DOI'])
         apiurl = 'https://api.unpaywall.org/v2/{0}?email=cpgrayca@uwaterloo.ca'
-        resp = urllib.request.urlopen(apiurl.format(doi))
+        try:
+            resp = urllib.request.urlopen(apiurl.format(doi))
+        except Exception as e:
+            errorlog.write(doi+'\n')
+            errorlog.write(repr(e)+'\n')
+            continue
         content = resp.read().decode('utf-8')
         data = json.loads(content)
 
@@ -39,8 +46,10 @@ with open('data/OA 2013-2017.csv', 'rt', newline='\n') as wosout:
 
         publishers[data['publisher']].append(data['doi'])
 
-        if count > 20:
-            break
+        #if count > 20:
+        #    break
+
+errorlog.close()
 
 for k, v in publishers.items():
     print(k, len(v))
