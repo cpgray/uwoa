@@ -1,0 +1,21 @@
+Get data from http://www.sherpa.ac.uk/romeo/PaidOA.php
+
+in LibreOffice calc use Sheet > Link to external data ...
+grab the second HTML table HTML_2
+keep only the first 3 columns (remove other currencies and notes)
+move the US Dollars heading up one row and then remove the second row
+export to CSV with comma separator and double quote delimiter
+do not force all text to be quoted
+
+use the fistpass.py script to process the CSV file into one that is ready
+for processing the data.
+The firstpass.py script:
+  1 - fills out publisher name in full if repeated in subsequent rows
+  2 - removes parenthesis and dollar signs from prices
+  3 - records average and extremes where ranges of costs are given
+  4 - marks where price is per article or quanta
+  5 - removes blank and unknown costs
+  6 - moves indicator of per article charges into correct row
+  7 - writes each new row to a CSV file
+
+  

@@ -16,7 +16,7 @@ lines = dict(enumerate(outlist))
 
 forremoval = []
 for i, l in lines.items():
-    if l['price'] in ['', '-', '$[unknown]']:
+    if l['price'] in ['', '-', '$[unknown]', '$0']:
         forremoval.append(i)
     elif l['price'].lower().startswith('p'):
         lines[i-1]['per'] = 'per'
