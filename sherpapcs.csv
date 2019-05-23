@@ -1,74 +1,44 @@
 doi,apc,type,title
-10.1093/nar/gkw1004,2730,hybrid,Oxford University Press (OUP)
 10.1021/acs.chemrev.7b00063,2750,hybrid,American Chemical Society
 10.1103/RevModPhys.89.015002,2200,hybrid,American Physical Society
-10.1103/PhysRevX.7.031038,2200,hybrid,American Physical Society
-10.1103/PhysRevX.7.031011,2200,hybrid,American Physical Society
 10.1103/PhysRevLett.119.030501,2200,hybrid,American Physical Society
-10.1039/c7sc00589j,2730,hybrid,Royal Society of Chemistry
 10.1103/PhysRevLett.118.153602,2200,hybrid,American Physical Society
-10.1093/nar/gkx517,2730,hybrid,Oxford University Press (OUP)
 10.1103/PhysRevB.96.245119,2200,hybrid,American Physical Society
 10.1021/acsnano.7b05170,2750,hybrid,American Chemical Society
 10.1021/jacs.7b04885,2750,hybrid,American Chemical Society
 10.1103/PhysRevLett.119.261802,2200,hybrid,American Physical Society
-10.1088/1367-2630/aa8487,2700,hybrid,IOP Publishing
 10.1021/jacs.6b11779,2750,hybrid,American Chemical Society
-10.1088/1367-2630/aa5c51,2700,hybrid,IOP Publishing
 10.1103/PhysRevA.95.042332,2200,hybrid,American Physical Society
 10.1021/acs.inorgchem.7b00852,2750,hybrid,American Chemical Society
-10.1088/1748-9326/aa7bf4,2700,hybrid,IOP Publishing
 10.1103/PhysRevLett.118.020401,2200,hybrid,American Physical Society
-10.1088/1367-2630/aa551b,2700,hybrid,IOP Publishing
 10.1103/PhysRevB.95.235140,2200,hybrid,American Physical Society
 10.1093/ntr/ntw137,2730,hybrid,Oxford University Press (OUP)
-10.1039/c7ra06524h,2730,hybrid,Royal Society of Chemistry
 10.1093/ntr/ntx056,2730,hybrid,Oxford University Press (OUP)
 10.1149/2.1301709jes,800,hybrid,Electrochemical Society
-10.1128/mSystems.00043-17,2725,hybrid,American Society for Microbiology
 10.1103/PhysRevA.96.023819,2200,hybrid,American Physical Society
-10.1128/mSphere.00387-16,2725,hybrid,American Society for Microbiology
 10.1103/PhysRevE.95.043105,2200,hybrid,American Physical Society
 10.1021/acs.est.6b04998,2750,hybrid,American Chemical Society
 10.1103/PhysRevA.95.043637,2200,hybrid,American Physical Society
 10.1103/PhysRevD.96.016012,2200,hybrid,American Physical Society
 10.1103/PhysRevB.96.035136,2200,hybrid,American Physical Society
-10.1039/c7ra02336g,2730,hybrid,Royal Society of Chemistry
-10.1039/c7ra03546b,2730,hybrid,Royal Society of Chemistry
 10.1039/c7ta08369f,2730,hybrid,Royal Society of Chemistry
 10.1103/PhysRevLett.119.043601,2200,hybrid,American Physical Society
 10.1149/2.0241714jes,800,hybrid,Electrochemical Society
 10.1017/cjn.2016.415,2835,hybrid,Cambridge University Press (CUP)
 10.1103/PhysRevA.96.012311,2200,hybrid,American Physical Society
 10.1242/dev.144964,3900,hybrid,Company of Biologists
-10.1128/mSystems.00035-17,2725,hybrid,American Society for Microbiology
-10.1088/1748-9326/aa8f7b,2700,hybrid,IOP Publishing
 10.1149/2.0211706jes,800,hybrid,Electrochemical Society
-10.1063/1.4974779,2000,hybrid,AIP Publishing
 10.1103/PhysRevLett.118.077202,2200,hybrid,American Physical Society
-10.1093/nar/gkw1143,2730,hybrid,Oxford University Press (OUP)
-10.1088/1367-2630/aa71d1,2700,hybrid,IOP Publishing
 10.1103/PhysRevLett.119.031301,2200,hybrid,American Physical Society
-10.1088/1367-2630/aa6653,2700,hybrid,IOP Publishing
-10.1039/c7ra06573f,2730,hybrid,Royal Society of Chemistry
-10.1039/c6ra24827f,2730,hybrid,Royal Society of Chemistry
 10.1039/c6sm01350c,2730,hybrid,Royal Society of Chemistry
-10.1039/c7ra00562h,2730,hybrid,Royal Society of Chemistry
 10.1074/jbc.M117.807925,1750,hybrid,American Society for Biochemistry and Molecular Biology
-10.1088/1367-2630/aa5f72,2700,hybrid,IOP Publishing
 10.1098/rspb.2017.1870,2975,hybrid,"Royal Society, The"
 10.1103/PhysRevB.95.100402,2200,hybrid,American Physical Society
-10.1017/fms.2017.17,2835,hybrid,Cambridge University Press (CUP)
 10.1021/acs.est.6b05453,2750,hybrid,American Chemical Society
-10.1039/c7ra02889j,2730,hybrid,Royal Society of Chemistry
 10.1088/1742-6596/896/1/012075,2700,hybrid,IOP Publishing
-10.1088/1367-2630/aa5d64,2700,hybrid,IOP Publishing
-10.1088/1367-2630/aa7235,2700,hybrid,IOP Publishing
 10.1103/PhysRevLett.119.040403,2200,hybrid,American Physical Society
 10.1103/PhysRevA.95.013840,2200,hybrid,American Physical Society
 10.1103/PhysRevD.95.084049,2200,hybrid,American Physical Society
-10.1063/1.5001144,2000,hybrid,AIP Publishing
-10.1088/1367-2630/aa8fe0,2700,hybrid,IOP Publishing
 10.1039/c7dt03446f,2730,hybrid,Royal Society of Chemistry
 10.1103/PhysRevD.95.123505,2200,hybrid,American Physical Society
 10.1021/acsami.7b12120,2750,hybrid,American Chemical Society
@@ -77,28 +47,21 @@ doi,apc,type,title
 10.2166/wp.2017.054,1875,hybrid,IWA Publishing
 10.1103/PhysRevB.96.174434,2200,hybrid,American Physical Society
 10.3934/mbe.2017023,800,hybrid,American Institute of Mathematical Sciences (AIMS)
-10.1039/c7ra01575e,2730,hybrid,Royal Society of Chemistry
 10.1103/PhysRevLett.119.050502,2200,hybrid,American Physical Society
-10.1098/rsos.170446,2975,hybrid,"Royal Society, The"
 10.1039/C7TA90100C,2730,hybrid,Royal Society of Chemistry
-10.1039/c6ra24829b,2730,hybrid,Royal Society of Chemistry
-10.1039/c7ra07474c,2730,hybrid,Royal Society of Chemistry
-10.1088/1367-2630/aa939a,2700,hybrid,IOP Publishing
-10.1017/fms.2017.13,2835,hybrid,Cambridge University Press (CUP)
 10.1103/PhysRevB.96.035117,2200,hybrid,American Physical Society
 10.1112/S0025579317000134,2730,hybrid,Oxford University Press (OUP)
 10.1061/%28ASCE%29SU.1943-5428.0000235,1750,hybrid,American Society of Civil Engineers
+10.1088/1751-8121/aa8e72,2700,hybrid,IOP Publishing
 10.1039/c7sm90062g,2730,hybrid,Royal Society of Chemistry
 10.1093/ntr/ntx011,2730,hybrid,Oxford University Press (OUP)
 10.1088/1742-6596/896/1/012054,2700,hybrid,IOP Publishing
 10.1088/1742-6596/896/1/012052,2700,hybrid,IOP Publishing
 10.1088/1742-6596/896/1/012114,2700,hybrid,IOP Publishing
-10.1039/c7ra07289a,2730,hybrid,Royal Society of Chemistry
 10.1103/PhysRevA.95.042319,2200,hybrid,American Physical Society
 10.1088/1755-1315/83/1/012019,2700,hybrid,IOP Publishing
 10.1088/1755-1315/83/1/012018,2700,hybrid,IOP Publishing
 10.1088/1478-3975/aa8001,2700,hybrid,IOP Publishing
-10.1051/epjconf/201713201004,824,hybrid,EDP Sciences
 10.1088/1742-6596/880/1/012044,2700,hybrid,IOP Publishing
 10.1103/PhysRevLett.119.261802,2200,hybrid,American Physical Society
 10.1149/2.1301709jes,800,hybrid,Electrochemical Society
@@ -117,6 +80,7 @@ doi,apc,type,title
 10.1039/C7TA90100C,2730,hybrid,Royal Society of Chemistry
 10.1112/S0025579317000134,2730,hybrid,Oxford University Press (OUP)
 10.1061/%28ASCE%29SU.1943-5428.0000235,1750,hybrid,American Society of Civil Engineers
+10.1088/1751-8121/aa8e72,2700,hybrid,IOP Publishing
 10.1039/c7sm90062g,2730,hybrid,Royal Society of Chemistry
 10.1088/1742-6596/896/1/012054,2700,hybrid,IOP Publishing
 10.1088/1742-6596/896/1/012052,2700,hybrid,IOP Publishing
