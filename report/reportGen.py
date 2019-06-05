@@ -3,4 +3,6 @@
 import bibextract
 from pprint import pprint
 
-pprint(bibextract.getPubs())
+pubs = bibextract.getPubs()
+
+pprint(pubs)
