@@ -4,7 +4,9 @@ import os
 import csv
 
 ## list of files from Shannon with WoS data
-files = ['OA 2013-2017.csv', 'OA 2018 WoS.csv', 'OA other 2013-2017.csv',
+files = ['OA 2013-2017.csv',
+         'OA 2018 WoS.csv',
+         'OA other 2013-2017.csv',
          'OA other gold 2018 WoS.csv']
 
 fieldsOfInterest = ['Accession Number', 'DOI', 'Article Title', 'Authors',
