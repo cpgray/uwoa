@@ -19,6 +19,9 @@ def getPubs():
                   encoding='windows-1251') as bibdata:
             rdr = csv.DictReader(bibdata)
             for row in rdr:
+                if row['DOI'] == None or row['DOI'] == '':
+                    # this removes the summaries at the bottom of CSV files
+                    continue
                 if row['DOI'] not in dois:
                     pubs.append({ k: row[k] for k in fieldsOfInterest })
                     dois.add(row['DOI'])
