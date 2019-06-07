@@ -13,3 +13,8 @@
 * combine rows with the same DOI into one line
 * keep track in which files each DOI appears
 * write out the combined and filtered files to combined.csv file
+
+## Get Crossref data
+* fields: publisher, is-referenced-by-count, container-title, subject
+* add time delay in loop
+* User-Agent: UWLibraryAPC/0.1 (mailto:libxrefclient@library.uwaterloo.ca) or use URL https://api.crossref.org/works/{doi}?select=mailto=libxrefclient@library.uwaterloo.ca
