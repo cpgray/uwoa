@@ -7,3 +7,9 @@
 * remove the summaries at the bottom of the data
 * output list of original file names and new names: fileOrigins.csv
 
+## Filter and deduplicate files
+* for each of the new files remove items without DOIs
+* filter the lines for the fields that have been requested
+* combine rows with the same DOI into one line
+* keep track of files in which DOIs appear
+* write out the combined and filtered files to combined.csv file
