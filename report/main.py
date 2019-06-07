@@ -51,10 +51,12 @@ for n, o in newFiles:
                 newRow['Filename'] = [o]
                 newRows[doi] = newRow
 
+## create new output file with all data combined and filtered
 with open('combined.csv', 'wt') as outfile:
     wtr = csv.DictWriter(outfile,
                          fieldnames = fieldsOfInterest + ['Filename'])
     wtr.writeheader()
     for k in newRows.keys():
+        # change the list of filenames into a comma delimited string
         newRows[k]['Filename'] = ','.join(newRows[k]['Filename'])
         wtr.writerow(newRows[k])
