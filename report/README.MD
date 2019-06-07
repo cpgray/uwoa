@@ -11,5 +11,5 @@
 * for each of the new files remove items without DOIs
 * filter the lines for the fields that have been requested
 * combine rows with the same DOI into one line
-* keep track of files in which DOIs appear
+* keep track in which files each DOI appears
 * write out the combined and filtered files to combined.csv file
