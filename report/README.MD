@@ -1,16 +1,9 @@
-# Processing steps
+# Processing steps -- report/main.py
 
-* Extract data from CSV files derived from WoS, Scopus, or others
+## Input files
+* starting from 4 WoS CSV files supplied by Shannon
+* create new files with simpler names: wos0.csv. wos1.csv, etc.
+* decode from windows-1251 into utf-8
+* remove the summaries at the bottom of the data
+* output list of original file names and new names: fileOrigins.csv
 
-bibextract.py
-
-script to extract bibliographic data from CSVs
-
-begin by looking at column headings to see about mapping and filtering
-
-Shannon's CSV's need to be open with encoding='windows-1251'
-
-data for 'research areas' and 'times cited'
-
-WoS fields of interest:  DOI, Article Title, Authors, Source, Research Area,
-  Publication Date, Times Cited
