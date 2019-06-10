@@ -3,9 +3,17 @@
 import os
 import csv
 
-fieldsOfInterest = ['Accession Number', 'DOI', 'Article Title', 'Authors',
-                    'Source', 'Research Area', 'Publication Date',
-                    'Times Cited']
+fieldsOfInterest = ['DOI', 'Article Title', 'Authors', 'Source',
+                    'Research Area', 'Publication Date', 'Times Cited']
+ScopusFoI = ['DOI', 'Title', 'Authors', 'Source title', 'Index Keywords',
+             'Year', 'Cited by']
+Scopus2WoS = {'DOI': 'DOI',
+              'Title': 'Article Title',
+              'Authors': 'Authors',
+              'Source title': 'Source',
+              'Index Keywords': 'Research Area',
+              'Year': 'Publication Date',
+              'Cited by': 'Times Cited'}
 
 ## combine/filter: reduce fields, deduplicate, remove items without DOIs
 newFiles = []
@@ -22,6 +30,9 @@ for n, o in newFiles:
             doi = row['DOI']
             if doi == 'n/a':
                 continue
+            if 'Title' in row.keys():
+                for k in ScopusFoI:
+                    row[Scopus2WoS[k]] = row.pop(k)
             newRow = { k:row[k] for k in fieldsOfInterest }
             if doi in newRows.keys():
                 newRows[doi]['Filename'].append(o)

@@ -1,5 +1,6 @@
 Old,New
-"OA 2013-2017.csv",wos0.csv
-"OA 2018 WoS.csv",wos1.csv
-"OA other 2013-2017.csv",wos2.csv
-"OA other gold 2018 WoS.csv",wos3.csv
+"OA 2013-2017.csv",shannon0.csv
+"OA 2018 WoS.csv",shannon1.csv
+"OA other 2013-2017.csv",shannon2.csv
+"OA other gold 2018 WoS.csv",shannon3.csv
+"OA 2018 Scopus.csv",shannon4.csv

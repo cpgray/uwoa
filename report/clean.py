@@ -2,16 +2,17 @@
 
 import os
 
-## list of files from Shannon with WoS data
+## list of files from Shannon
 files = ['OA 2013-2017.csv',
          'OA 2018 WoS.csv',
          'OA other 2013-2017.csv',
-         'OA other gold 2018 WoS.csv']
+         'OA other gold 2018 WoS.csv',
+         'OA 2018 Scopus.csv']
 
 ## Create new renamed files in utf-8 encoding with summaries removed
 newFiles = []
 for i, f in enumerate(files):
-    newFn = 'wos' + str(i) + '.csv'
+    newFn = 'shannon' + str(i) + '.csv'
     newFiles.append( (newFn, f) )
     fn = os.path.join('../data', f)
     with open(fn, 'rt', encoding='windows-1251') as infile:
