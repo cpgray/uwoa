@@ -1,11 +1,11 @@
 {"DOI": "10.1016/j.jqsrt.2013.07.002", "publisher": "Elsevier BV", "is-referenced-by-count": 1887, "container-title": ["Journal of Quantitative Spectroscopy and Radiative Transfer"], "subject": null}
 {"DOI": "10.1080/15548627.2015.1100356", "publisher": "Informa UK Limited", "is-referenced-by-count": 1685, "container-title": ["Autophagy"], "subject": null}
-{"DOI": "10.1016/s0140-6736(15)01024-7", "publisher": "Elsevier BV", "is-referenced-by-count": 998, "container-title": ["The Lancet"], "subject": ["General Medicine"]}
+{"DOI": "10.1016/s0140-6736(15)01024-7", "publisher": "Elsevier BV", "is-referenced-by-count": 1013, "container-title": ["The Lancet"], "subject": ["General Medicine"]}
 {"DOI": "10.1038/ncomms6682", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 733, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1038/ncomms5759", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 586, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1016/j.amepre.2012.10.018", "publisher": "Elsevier BV", "is-referenced-by-count": 368, "container-title": ["American Journal of Preventive Medicine"], "subject": null}
 {"DOI": "10.1038/nmicrobiol.2016.48", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 428, "container-title": ["Nature Microbiology"], "subject": ["Immunology", "Microbiology (medical)", "Applied Microbiology and Biotechnology", "Genetics", "Cell Biology", "Microbiology"]}
-{"DOI": "10.1109/comst.2015.2477041", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 383, "container-title": ["IEEE Communications Surveys & Tutorials"], "subject": null}
+{"DOI": "10.1109/comst.2015.2477041", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 385, "container-title": ["IEEE Communications Surveys & Tutorials"], "subject": null}
 {"DOI": "10.1007/s10633-014-9473-7", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 310, "container-title": ["Documenta Ophthalmologica"], "subject": ["Ophthalmology", "Physiology (medical)", "Sensory Systems"]}
 {"DOI": "10.1021/nn305559j", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 359, "container-title": ["ACS Nano"], "subject": null}
 {"DOI": "10.1093/mnras/stt601", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 325, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
@@ -18,8 +18,8 @@
 {"DOI": "10.1093/mnras/stt041", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 230, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1093/mnras/sts454", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 223, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": ["Space and Planetary Science", "Astronomy and Astrophysics"]}
 {"DOI": "10.1093/mnras/stt928", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 225, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.3945/jn.115.219634", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 214, "container-title": ["The Journal of Nutrition"], "subject": null}
-{"DOI": "10.1093/nar/gkw1004", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 297, "container-title": ["Nucleic Acids Research"], "subject": null}
+{"DOI": "10.3945/jn.115.219634", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 216, "container-title": ["The Journal of Nutrition"], "subject": null}
+{"DOI": "10.1093/nar/gkw1004", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 301, "container-title": ["Nucleic Acids Research"], "subject": null}
 {"DOI": "10.1007/jhep07(2014)033", "publisher": "Springer Nature", "is-referenced-by-count": 201, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1093/mnrasl/sls053", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 185, "container-title": ["Monthly Notices of the Royal Astronomical Society: Letters"], "subject": null}
 {"DOI": "10.1038/nenergy.2016.119", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 257, "container-title": ["Nature Energy"], "subject": null}
@@ -28,7 +28,7 @@
 {"DOI": "10.1371/journal.pone.0058640", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 63, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1038/ncomms4546", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 147, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1007/jhep05(2013)093", "publisher": "Springer Nature", "is-referenced-by-count": 138, "container-title": ["Journal of High Energy Physics"], "subject": null}
-{"DOI": "10.1001/jamainternmed.2013.189", "publisher": "American Medical Association (AMA)", "is-referenced-by-count": 139, "container-title": ["JAMA Internal Medicine"], "subject": null}
+{"DOI": "10.1001/jamainternmed.2013.189", "publisher": "American Medical Association (AMA)", "is-referenced-by-count": 140, "container-title": ["JAMA Internal Medicine"], "subject": null}
 {"DOI": "10.1021/ja511444e", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 156, "container-title": ["Journal of the American Chemical Society"], "subject": null}
 {"DOI": "10.1007/jhep07(2015)149", "publisher": "Springer Nature", "is-referenced-by-count": 147, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1016/j.jpowsour.2014.01.057", "publisher": "Elsevier BV", "is-referenced-by-count": 134, "container-title": ["Journal of Power Sources"], "subject": null}
@@ -39,20 +39,20 @@
 {"DOI": "10.1371/journal.pone.0065351", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 127, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1149/2.0171514jes", "publisher": "The Electrochemical Society", "is-referenced-by-count": 156, "container-title": ["Journal of The Electrochemical Society"], "subject": null}
 {"DOI": "10.1186/cc12901", "publisher": "Springer Nature", "is-referenced-by-count": 138, "container-title": ["Critical Care"], "subject": null}
-{"DOI": "10.1038/nphys4035", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 194, "container-title": ["Nature Physics"], "subject": ["General Physics and Astronomy"]}
-{"DOI": "10.1038/nature24621", "publisher": "Springer Nature", "is-referenced-by-count": 125, "container-title": ["Nature"], "subject": ["Multidisciplinary"]}
+{"DOI": "10.1038/nphys4035", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 195, "container-title": ["Nature Physics"], "subject": ["General Physics and Astronomy"]}
+{"DOI": "10.1038/nature24621", "publisher": "Springer Nature", "is-referenced-by-count": 131, "container-title": ["Nature"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1038/nphys3905", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 141, "container-title": ["Nature Physics"], "subject": ["General Physics and Astronomy"]}
 {"DOI": "10.1093/mnras/stt2013", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 113, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1016/j.micres.2015.11.008", "publisher": "Elsevier BV", "is-referenced-by-count": 195, "container-title": ["Microbiological Research"], "subject": null}
-{"DOI": "10.1002/adma.201301082", "publisher": "Wiley", "is-referenced-by-count": 136, "container-title": ["Advanced Materials"], "subject": null}
+{"DOI": "10.1002/adma.201301082", "publisher": "Wiley", "is-referenced-by-count": 137, "container-title": ["Advanced Materials"], "subject": null}
 {"DOI": "10.1103/physrevlett.113.147204", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 113, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1186/1743-0003-10-91", "publisher": "Springer Nature", "is-referenced-by-count": 132, "container-title": ["Journal of NeuroEngineering and Rehabilitation"], "subject": null}
-{"DOI": "10.1073/pnas.1611740113", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 139, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
+{"DOI": "10.1073/pnas.1611740113", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 140, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1039/c5ee01365h", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 132, "container-title": ["Energy & Environmental Science"], "subject": null}
 {"DOI": "10.1093/mnras/stt030", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 105, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1021/acs.chemrev.7b00063", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 166, "container-title": ["Chemical Reviews"], "subject": null}
+{"DOI": "10.1021/acs.chemrev.7b00063", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 170, "container-title": ["Chemical Reviews"], "subject": null}
 {"DOI": "10.1515/pac-2014-0208", "publisher": "Walter de Gruyter GmbH", "is-referenced-by-count": 98, "container-title": ["Pure and Applied Chemistry"], "subject": ["General Chemistry", "General Chemical Engineering"]}
-{"DOI": "10.1109/tvt.2013.2251374", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 114, "container-title": ["IEEE Transactions on Vehicular Technology"], "subject": null}
+{"DOI": "10.1109/tvt.2013.2251374", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 115, "container-title": ["IEEE Transactions on Vehicular Technology"], "subject": null}
 {"DOI": "10.1126/science.1250217", "publisher": "American Association for the Advancement of Science (AAAS)", "is-referenced-by-count": 113, "container-title": ["Science"], "subject": null}
 {"DOI": "10.1016/j.trac.2013.12.014", "publisher": "Elsevier BV", "is-referenced-by-count": 103, "container-title": ["TrAC Trends in Analytical Chemistry"], "subject": null}
 {"DOI": "10.1186/1556-276x-8-235", "publisher": "Springer Nature", "is-referenced-by-count": 109, "container-title": ["Nanoscale Research Letters"], "subject": null}
@@ -65,7 +65,7 @@
 {"DOI": "10.1111/mcn.12080", "publisher": "Wiley", "is-referenced-by-count": 119, "container-title": ["Maternal & Child Nutrition"], "subject": null}
 {"DOI": "10.1145/2635868.2635929", "publisher": "ACM Press", "is-referenced-by-count": 132, "container-title": ["Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering - FSE 2014"], "subject": null}
 {"DOI": "10.1038/ncomms4821", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 97, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
-{"DOI": "10.1093/mnras/sts493", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 94, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": ["Space and Planetary Science", "Astronomy and Astrophysics"]}
+{"DOI": "10.1093/mnras/sts493", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 96, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": ["Space and Planetary Science", "Astronomy and Astrophysics"]}
 {"DOI": "10.1093/mnras/stt259", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 90, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.3945/ajcn.114.083238", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 106, "container-title": ["The American Journal of Clinical Nutrition"], "subject": null}
 {"DOI": "10.1136/bjsports-2013-093218", "publisher": "BMJ", "is-referenced-by-count": 134, "container-title": ["British Journal of Sports Medicine"], "subject": null}
@@ -74,15 +74,15 @@
 {"DOI": "10.1016/j.gca.2015.02.025", "publisher": "Elsevier BV", "is-referenced-by-count": 99, "container-title": ["Geochimica et Cosmochimica Acta"], "subject": null}
 {"DOI": "10.1038/ncomms6718", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 99, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1039/c3ta14590e", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 93, "container-title": ["Journal of Materials Chemistry A"], "subject": null}
-{"DOI": "10.1002/2013wr013725", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 97, "container-title": ["Water Resources Research"], "subject": null}
-{"DOI": "10.1038/srep01378", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 105, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
+{"DOI": "10.1002/2013wr013725", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 99, "container-title": ["Water Resources Research"], "subject": null}
+{"DOI": "10.1038/srep01378", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 106, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1093/mnras/stt109", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 96, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1021/acs.nanolett.6b01897", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 99, "container-title": ["Nano Letters"], "subject": null}
 {"DOI": "10.1126/sciadv.1501258", "publisher": "American Association for the Advancement of Science (AAAS)", "is-referenced-by-count": 98, "container-title": ["Science Advances"], "subject": null}
 {"DOI": "10.1093/mnras/stt276", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 86, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1186/s12889-015-1733-2", "publisher": "Springer Nature", "is-referenced-by-count": 92, "container-title": ["BMC Public Health"], "subject": ["Public Health, Environmental and Occupational Health"]}
 {"DOI": "10.1371/journal.pone.0056176", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 101, "container-title": ["PLoS ONE"], "subject": null}
-{"DOI": "10.1103/physrevb.90.174302", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 85, "container-title": ["Physical Review B"], "subject": null}
+{"DOI": "10.1103/physrevb.90.174302", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 86, "container-title": ["Physical Review B"], "subject": null}
 {"DOI": "10.1093/mnras/stu934", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 81, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1088/0004-637x/784/1/7", "publisher": "IOP Publishing", "is-referenced-by-count": 95, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1086/691697", "publisher": "University of Chicago Press", "is-referenced-by-count": 77, "container-title": ["Journal of the Association of Environmental and Resource Economists"], "subject": null}
@@ -100,15 +100,15 @@
 {"DOI": "10.3390/en7042027", "publisher": "MDPI AG", "is-referenced-by-count": 79, "container-title": ["Energies"], "subject": null}
 {"DOI": "10.1103/revmodphys.89.015002", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 86, "container-title": ["Reviews of Modern Physics"], "subject": null}
 {"DOI": "10.1093/mnras/stt971", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 70, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1016/j.ancene.2015.09.004", "publisher": "Elsevier BV", "is-referenced-by-count": 102, "container-title": ["Anthropocene"], "subject": null}
-{"DOI": "10.1016/j.aei.2015.01.001", "publisher": "Elsevier BV", "is-referenced-by-count": 87, "container-title": ["Advanced Engineering Informatics"], "subject": null}
+{"DOI": "10.1016/j.ancene.2015.09.004", "publisher": "Elsevier BV", "is-referenced-by-count": 104, "container-title": ["Anthropocene"], "subject": null}
+{"DOI": "10.1016/j.aei.2015.01.001", "publisher": "Elsevier BV", "is-referenced-by-count": 88, "container-title": ["Advanced Engineering Informatics"], "subject": null}
 {"DOI": "10.1056/nejmoa1503734", "publisher": "Massachusetts Medical Society", "is-referenced-by-count": 107, "container-title": ["New England Journal of Medicine"], "subject": null}
 {"DOI": "10.1002/rog.20004", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 88, "container-title": ["Reviews of Geophysics"], "subject": null}
 {"DOI": "10.1038/nature14243", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 85, "container-title": ["Nature"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1093/mnras/stv276", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 78, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1128/aem.01451-14", "publisher": "American Society for Microbiology", "is-referenced-by-count": 85, "container-title": ["Applied and Environmental Microbiology"], "subject": null}
+{"DOI": "10.1128/aem.01451-14", "publisher": "American Society for Microbiology", "is-referenced-by-count": 86, "container-title": ["Applied and Environmental Microbiology"], "subject": null}
 {"DOI": "10.1093/mnras/stu2367", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 75, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1103/physrevlett.112.250501", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 84, "container-title": ["Physical Review Letters"], "subject": null}
+{"DOI": "10.1103/physrevlett.112.250501", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 86, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1021/am4018863", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 79, "container-title": ["ACS Applied Materials & Interfaces"], "subject": null}
 {"DOI": "10.1007/jhep09(2014)080", "publisher": "Springer Nature", "is-referenced-by-count": 88, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1088/0004-637x/773/1/57", "publisher": "IOP Publishing", "is-referenced-by-count": 74, "container-title": ["The Astrophysical Journal"], "subject": null}
@@ -120,7 +120,7 @@
 {"DOI": "10.1088/1367-2630/15/2/023006", "publisher": "IOP Publishing", "is-referenced-by-count": 64, "container-title": ["New Journal of Physics"], "subject": null}
 {"DOI": "10.1073/pnas.1310377110", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 82, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1016/j.bios.2013.04.002", "publisher": "Elsevier BV", "is-referenced-by-count": 72, "container-title": ["Biosensors and Bioelectronics"], "subject": null}
-{"DOI": "10.3390/ijms14023514", "publisher": "MDPI AG", "is-referenced-by-count": 75, "container-title": ["International Journal of Molecular Sciences"], "subject": null}
+{"DOI": "10.3390/ijms14023514", "publisher": "MDPI AG", "is-referenced-by-count": 76, "container-title": ["International Journal of Molecular Sciences"], "subject": null}
 {"DOI": "10.1152/japplphysiol.00154.2016", "publisher": "American Physiological Society", "is-referenced-by-count": 90, "container-title": ["Journal of Applied Physiology"], "subject": null}
 {"DOI": "10.5751/es-06966-190454", "publisher": "Resilience Alliance, Inc.", "is-referenced-by-count": 51, "container-title": ["Ecology and Society"], "subject": null}
 {"DOI": "10.1038/ncomms7139", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 79, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
@@ -140,7 +140,7 @@
 {"DOI": "10.1002/smll.201600178", "publisher": "Wiley", "is-referenced-by-count": 82, "container-title": ["Small"], "subject": null}
 {"DOI": "10.18632/oncotarget.8166", "publisher": "Impact Journals, LLC", "is-referenced-by-count": 87, "container-title": ["Oncotarget"], "subject": null}
 {"DOI": "10.1093/ntr/nts094", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 62, "container-title": ["Nicotine & Tobacco Research"], "subject": ["Public Health, Environmental and Occupational Health"]}
-{"DOI": "10.1016/j.biocon.2016.10.006", "publisher": "Elsevier BV", "is-referenced-by-count": 107, "container-title": ["Biological Conservation"], "subject": null}
+{"DOI": "10.1016/j.biocon.2016.10.006", "publisher": "Elsevier BV", "is-referenced-by-count": 110, "container-title": ["Biological Conservation"], "subject": null}
 {"DOI": "10.1088/0004-637x/788/2/120", "publisher": "IOP Publishing", "is-referenced-by-count": 64, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1371/journal.pone.0059005", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 60, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1088/0004-637x/785/1/44", "publisher": "IOP Publishing", "is-referenced-by-count": 63, "container-title": ["The Astrophysical Journal"], "subject": null}
@@ -155,12 +155,12 @@
 {"DOI": "10.1074/jbc.m114.554444", "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)", "is-referenced-by-count": 63, "container-title": ["Journal of Biological Chemistry"], "subject": null}
 {"DOI": "10.1093/hmg/ddt297", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 53, "container-title": ["Human Molecular Genetics"], "subject": null}
 {"DOI": "10.1167/iovs.13-13235", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 75, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
-{"DOI": "10.1103/physrevlett.114.090502", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 71, "container-title": ["Physical Review Letters"], "subject": null}
+{"DOI": "10.1103/physrevlett.114.090502", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 72, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1088/1367-2630/17/3/033002", "publisher": "IOP Publishing", "is-referenced-by-count": 61, "container-title": ["New Journal of Physics"], "subject": null}
 {"DOI": "10.1136/tobaccocontrol-2016-052934", "publisher": "BMJ", "is-referenced-by-count": 91, "container-title": ["Tobacco Control"], "subject": null}
 {"DOI": "10.5194/nhess-14-95-2014", "publisher": "Copernicus GmbH", "is-referenced-by-count": 64, "container-title": ["Natural Hazards and Earth System Sciences"], "subject": null}
 {"DOI": "10.1016/j.nanoen.2015.10.025", "publisher": "Elsevier BV", "is-referenced-by-count": 70, "container-title": ["Nano Energy"], "subject": ["Renewable Energy, Sustainability and the Environment", "Electrical and Electronic Engineering", "General Materials Science"]}
-{"DOI": "10.1017/s026988891300043x", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 70, "container-title": ["The Knowledge Engineering Review"], "subject": ["Software", "Artificial Intelligence"]}
+{"DOI": "10.1017/s026988891300043x", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 73, "container-title": ["The Knowledge Engineering Review"], "subject": ["Software", "Artificial Intelligence"]}
 {"DOI": "10.5194/tc-8-167-2014", "publisher": "Copernicus GmbH", "is-referenced-by-count": 55, "container-title": ["The Cryosphere"], "subject": null}
 {"DOI": "10.3389/fmicb.2014.00399", "publisher": "Frontiers Media SA", "is-referenced-by-count": 62, "container-title": ["Frontiers in Microbiology"], "subject": null}
 {"DOI": "10.1088/1367-2630/16/1/013009", "publisher": "IOP Publishing", "is-referenced-by-count": 63, "container-title": ["New Journal of Physics"], "subject": null}
@@ -168,7 +168,7 @@
 {"DOI": "10.1037/hea0000056", "publisher": "American Psychological Association (APA)", "is-referenced-by-count": 51, "container-title": ["Health Psychology"], "subject": null}
 {"DOI": "10.1136/tobaccocontrol-2011-050131", "publisher": "BMJ", "is-referenced-by-count": 59, "container-title": ["Tobacco Control"], "subject": ["Public Health, Environmental and Occupational Health", "Health(social science)"]}
 {"DOI": "10.1167/iovs.13-13212", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 60, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
-{"DOI": "10.3389/fpsyg.2014.00082", "publisher": "Frontiers Media SA", "is-referenced-by-count": 59, "container-title": ["Frontiers in Psychology"], "subject": null}
+{"DOI": "10.3389/fpsyg.2014.00082", "publisher": "Frontiers Media SA", "is-referenced-by-count": 60, "container-title": ["Frontiers in Psychology"], "subject": null}
 {"DOI": "10.1371/journal.pone.0099168", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 53, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1073/pnas.1511797112", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 26, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1021/acs.analchem.6b00327", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 67, "container-title": ["Analytical Chemistry"], "subject": null}
@@ -206,7 +206,7 @@
 {"DOI": "10.1364/oe.23.003550", "publisher": "The Optical Society", "is-referenced-by-count": 46, "container-title": ["Optics Express"], "subject": null}
 {"DOI": "10.1128/aem.00683-13", "publisher": "American Society for Microbiology", "is-referenced-by-count": 52, "container-title": ["Applied and Environmental Microbiology"], "subject": null}
 {"DOI": "10.1021/ac501070a", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 60, "container-title": ["Analytical Chemistry"], "subject": null}
-{"DOI": "10.1016/j.chemgeo.2016.03.010", "publisher": "Elsevier BV", "is-referenced-by-count": 56, "container-title": ["Chemical Geology"], "subject": null}
+{"DOI": "10.1016/j.chemgeo.2016.03.010", "publisher": "Elsevier BV", "is-referenced-by-count": 58, "container-title": ["Chemical Geology"], "subject": null}
 {"DOI": "10.1007/jhep01(2017)062", "publisher": "Springer Nature", "is-referenced-by-count": 70, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1111/j.1360-0443.2012.04009.x", "publisher": "Wiley", "is-referenced-by-count": 47, "container-title": ["Addiction"], "subject": ["Medicine (miscellaneous)", "Psychiatry and Mental health"]}
 {"DOI": "10.1136/tobaccocontrol-2013-051170", "publisher": "BMJ", "is-referenced-by-count": 46, "container-title": ["Tobacco Control"], "subject": null}
@@ -226,7 +226,7 @@
 {"DOI": "10.5194/acp-15-9965-2015", "publisher": "Copernicus GmbH", "is-referenced-by-count": 55, "container-title": ["Atmospheric Chemistry and Physics"], "subject": null}
 {"DOI": "10.1103/physrevx.5.041010", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 35, "container-title": ["Physical Review X"], "subject": null}
 {"DOI": "10.1016/j.jalz.2015.12.006", "publisher": "Elsevier BV", "is-referenced-by-count": 64, "container-title": ["Alzheimer's & Dementia"], "subject": null}
-{"DOI": "10.1111/cobi.12788", "publisher": "Wiley", "is-referenced-by-count": 65, "container-title": ["Conservation Biology"], "subject": null}
+{"DOI": "10.1111/cobi.12788", "publisher": "Wiley", "is-referenced-by-count": 67, "container-title": ["Conservation Biology"], "subject": null}
 {"DOI": "10.1007/jhep06(2014)044", "publisher": "Springer Nature", "is-referenced-by-count": 50, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1103/physrevlett.114.053602", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 51, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1186/1476-4598-12-35", "publisher": "Springer Nature", "is-referenced-by-count": 44, "container-title": ["Molecular Cancer"], "subject": null}
@@ -240,7 +240,7 @@
 {"DOI": "10.1161/circulationaha.115.015464", "publisher": "Ovid Technologies (Wolters Kluwer Health)", "is-referenced-by-count": 52, "container-title": ["Circulation"], "subject": null}
 {"DOI": "10.5194/amt-9-2497-2016", "publisher": "Copernicus GmbH", "is-referenced-by-count": 40, "container-title": ["Atmospheric Measurement Techniques"], "subject": null}
 {"DOI": "10.1103/physrevlett.110.135702", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 48, "container-title": ["Physical Review Letters"], "subject": null}
-{"DOI": "10.1088/0004-637x/807/2/150", "publisher": "IOP Publishing", "is-referenced-by-count": 51, "container-title": ["The Astrophysical Journal"], "subject": null}
+{"DOI": "10.1088/0004-637x/807/2/150", "publisher": "IOP Publishing", "is-referenced-by-count": 52, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1364/oe.25.000377", "publisher": "The Optical Society", "is-referenced-by-count": 51, "container-title": ["Optics Express"], "subject": null}
 {"DOI": "10.1208/s12248-013-9451-0", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 52, "container-title": ["The AAPS Journal"], "subject": null}
 {"DOI": "10.1103/physrevlett.110.190502", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 44, "container-title": ["Physical Review Letters"], "subject": null}
@@ -248,7 +248,7 @@
 {"DOI": "10.1016/j.visres.2015.02.009", "publisher": "Elsevier BV", "is-referenced-by-count": 42, "container-title": ["Vision Research"], "subject": null}
 {"DOI": "10.1073/pnas.1620211114", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 60, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1093/nar/gku1296", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 50, "container-title": ["Nucleic Acids Research"], "subject": null}
-{"DOI": "10.1038/srep20463", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 51, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
+{"DOI": "10.1038/srep20463", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 52, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1088/0067-0049/211/2/21", "publisher": "IOP Publishing", "is-referenced-by-count": 43, "container-title": ["The Astrophysical Journal Supplement Series"], "subject": null}
 {"DOI": "10.1167/iovs.13-13125", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 53, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
 {"DOI": "10.1088/1367-2630/16/12/123030", "publisher": "IOP Publishing", "is-referenced-by-count": 47, "container-title": ["New Journal of Physics"], "subject": null}
@@ -257,12 +257,12 @@
 {"DOI": "10.1126/science.aad9163", "publisher": "American Association for the Advancement of Science (AAAS)", "is-referenced-by-count": 53, "container-title": ["Science"], "subject": null}
 {"DOI": "10.1371/journal.pone.0064169", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 40, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1103/physrevlett.115.267208", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 46, "container-title": ["Physical Review Letters"], "subject": null}
-{"DOI": "10.1007/s00198-013-2523-2", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 46, "container-title": ["Osteoporosis International"], "subject": ["Endocrinology, Diabetes and Metabolism"]}
-{"DOI": "10.18564/jasss.2897", "publisher": "Journal of Artificial Societies and Social Simulation", "is-referenced-by-count": 56, "container-title": ["Journal of Artificial Societies and Social Simulation"], "subject": null}
+{"DOI": "10.1007/s00198-013-2523-2", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 47, "container-title": ["Osteoporosis International"], "subject": ["Endocrinology, Diabetes and Metabolism"]}
+{"DOI": "10.18564/jasss.2897", "publisher": "Journal of Artificial Societies and Social Simulation", "is-referenced-by-count": 57, "container-title": ["Journal of Artificial Societies and Social Simulation"], "subject": null}
 {"DOI": "10.1039/c5tc00380f", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 51, "container-title": ["Journal of Materials Chemistry C"], "subject": null}
 {"DOI": "10.1167/iovs.13-13187", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 50, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
-{"DOI": "10.1103/physrevlett.116.031101", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 53, "container-title": ["Physical Review Letters"], "subject": null}
-{"DOI": "10.1109/tvt.2016.2551721", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 57, "container-title": ["IEEE Transactions on Vehicular Technology"], "subject": null}
+{"DOI": "10.1103/physrevlett.116.031101", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 55, "container-title": ["Physical Review Letters"], "subject": null}
+{"DOI": "10.1109/tvt.2016.2551721", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 59, "container-title": ["IEEE Transactions on Vehicular Technology"], "subject": null}
 {"DOI": "10.1093/mnras/stv1151", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 44, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.1111/fwb.12334", "publisher": "Wiley", "is-referenced-by-count": 48, "container-title": ["Freshwater Biology"], "subject": null}
 {"DOI": "10.5101/nml.v5i3.p202-212", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Nano-Micro Letters"], "subject": ["Electrical and Electronic Engineering", "Electronic, Optical and Magnetic Materials", "Surfaces, Coatings and Films"]}
@@ -313,7 +313,7 @@
 {"DOI": "10.1038/srep03169", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 38, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1103/physrevb.87.184423", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 35, "container-title": ["Physical Review B"], "subject": null}
 {"DOI": "10.1109/tetc.2013.2278705", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 39, "container-title": ["IEEE Transactions on Emerging Topics in Computing"], "subject": null}
-{"DOI": "10.1016/j.jand.2015.08.016", "publisher": "Elsevier BV", "is-referenced-by-count": 56, "container-title": ["Journal of the Academy of Nutrition and Dietetics"], "subject": null}
+{"DOI": "10.1016/j.jand.2015.08.016", "publisher": "Elsevier BV", "is-referenced-by-count": 58, "container-title": ["Journal of the Academy of Nutrition and Dietetics"], "subject": null}
 {"DOI": "10.1103/physreva.87.043804", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 36, "container-title": ["Physical Review A"], "subject": null}
 {"DOI": "10.1016/j.neuron.2012.11.006", "publisher": "Elsevier BV", "is-referenced-by-count": 36, "container-title": ["Neuron"], "subject": ["General Neuroscience"]}
 {"DOI": "10.3389/fpsyg.2013.00619", "publisher": "Frontiers Media SA", "is-referenced-by-count": 35, "container-title": ["Frontiers in Psychology"], "subject": null}
@@ -397,12 +397,12 @@
 {"DOI": "10.1175/2015bamsstateoftheclimate.1", "publisher": "American Meteorological Society", "is-referenced-by-count": 38, "container-title": ["Bulletin of the American Meteorological Society"], "subject": null}
 {"DOI": "10.1371/journal.pone.0084304", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 34, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1017/cjn.2016.36", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 37, "container-title": ["Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques"], "subject": ["Neurology", "Clinical Neurology", "General Medicine"]}
-{"DOI": "10.3847/0004-637x/820/2/90", "publisher": "American Astronomical Society", "is-referenced-by-count": 44, "container-title": ["The Astrophysical Journal"], "subject": null}
+{"DOI": "10.3847/0004-637x/820/2/90", "publisher": "American Astronomical Society", "is-referenced-by-count": 45, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1051/0004-6361/201323074", "publisher": "EDP Sciences", "is-referenced-by-count": 34, "container-title": ["Astronomy & Astrophysics"], "subject": null}
 {"DOI": "10.1038/ncomms11780", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 35, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1093/ntr/nts202", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 32, "container-title": ["Nicotine & Tobacco Research"], "subject": ["Public Health, Environmental and Occupational Health"]}
 {"DOI": "10.1098/rsta.2013.0216", "publisher": "The Royal Society", "is-referenced-by-count": 43, "container-title": ["Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"], "subject": null}
-{"DOI": "10.1088/0004-637x/809/1/97", "publisher": "IOP Publishing", "is-referenced-by-count": 31, "container-title": ["The Astrophysical Journal"], "subject": null}
+{"DOI": "10.1088/0004-637x/809/1/97", "publisher": "IOP Publishing", "is-referenced-by-count": 32, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1371/journal.pone.0062602", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 31, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1167/iovs.12-11299", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 28, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
 {"DOI": "10.1016/j.semcdb.2015.07.001", "publisher": "Elsevier BV", "is-referenced-by-count": 42, "container-title": ["Seminars in Cell & Developmental Biology"], "subject": null}
@@ -414,7 +414,7 @@
 {"DOI": "10.1002/2013gl058635", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 30, "container-title": ["Geophysical Research Letters"], "subject": null}
 {"DOI": "10.1002/advs.201600044", "publisher": "Wiley", "is-referenced-by-count": 34, "container-title": ["Advanced Science"], "subject": null}
 {"DOI": "10.3390/catal3040878", "publisher": "MDPI AG", "is-referenced-by-count": 33, "container-title": ["Catalysts"], "subject": null}
-{"DOI": "10.1140/epjc/s10052-016-4119-4", "publisher": "Springer Nature", "is-referenced-by-count": 41, "container-title": ["The European Physical Journal C"], "subject": ["Physics and Astronomy (miscellaneous)", "Engineering (miscellaneous)"]}
+{"DOI": "10.1140/epjc/s10052-016-4119-4", "publisher": "Springer Nature", "is-referenced-by-count": 42, "container-title": ["The European Physical Journal C"], "subject": ["Physics and Astronomy (miscellaneous)", "Engineering (miscellaneous)"]}
 {"DOI": "10.5194/amt-7-1395-2014", "publisher": "Copernicus GmbH", "is-referenced-by-count": 31, "container-title": ["Atmospheric Measurement Techniques"], "subject": null}
 {"DOI": "10.1103/physrevb.87.085138", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 29, "container-title": ["Physical Review B"], "subject": null}
 {"DOI": "10.3390/nano3020221", "publisher": "MDPI AG", "is-referenced-by-count": 30, "container-title": ["Nanomaterials"], "subject": null}
@@ -438,7 +438,7 @@
 {"DOI": "10.1002/sec.519", "publisher": "Wiley", "is-referenced-by-count": 28, "container-title": ["Security and Communication Networks"], "subject": null}
 {"DOI": "10.1016/j.resp.2013.06.016", "publisher": "Elsevier BV", "is-referenced-by-count": 30, "container-title": ["Respiratory Physiology & Neurobiology"], "subject": null}
 {"DOI": "10.1016/j.jclepro.2016.09.005", "publisher": "Elsevier BV", "is-referenced-by-count": 48, "container-title": ["Journal of Cleaner Production"], "subject": null}
-{"DOI": "10.1007/s00778-015-0389-y", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 46, "container-title": ["The VLDB Journal"], "subject": ["Hardware and Architecture", "Information Systems"]}
+{"DOI": "10.1007/s00778-015-0389-y", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 49, "container-title": ["The VLDB Journal"], "subject": ["Hardware and Architecture", "Information Systems"]}
 {"DOI": "10.1016/j.landurbplan.2016.03.010", "publisher": "Elsevier BV", "is-referenced-by-count": 32, "container-title": ["Landscape and Urban Planning"], "subject": ["Ecology", "Management, Monitoring, Policy and Law", "Nature and Landscape Conservation"]}
 {"DOI": "10.1109/tetc.2013.2273889", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 36, "container-title": ["IEEE Transactions on Emerging Topics in Computing"], "subject": null}
 {"DOI": "10.1371/journal.pone.0125971", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 32, "container-title": ["PLOS ONE"], "subject": null}
@@ -476,14 +476,14 @@
 {"DOI": "10.1038/npp.2014.189", "publisher": "Springer Nature", "is-referenced-by-count": 46, "container-title": ["Neuropsychopharmacology"], "subject": ["Pharmacology", "Psychiatry and Mental health"]}
 {"DOI": "10.1103/physrevb.92.035118", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 30, "container-title": ["Physical Review B"], "subject": null}
 {"DOI": "10.1017/s0007114513000585", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 25, "container-title": ["British Journal of Nutrition"], "subject": ["Nutrition and Dietetics", "Medicine (miscellaneous)"]}
-{"DOI": "10.3389/fmicb.2017.00971", "publisher": "Frontiers Media SA", "is-referenced-by-count": 57, "container-title": ["Frontiers in Microbiology"], "subject": null}
+{"DOI": "10.3389/fmicb.2017.00971", "publisher": "Frontiers Media SA", "is-referenced-by-count": 58, "container-title": ["Frontiers in Microbiology"], "subject": null}
 {"DOI": "10.1523/jneurosci.3979-14.2015", "publisher": "Society for Neuroscience", "is-referenced-by-count": 31, "container-title": ["Journal of Neuroscience"], "subject": null}
 {"DOI": "10.1186/1754-6834-6-50", "publisher": "Springer Nature", "is-referenced-by-count": 37, "container-title": ["Biotechnology for Biofuels"], "subject": null}
 {"DOI": "10.1103/physrevlett.114.090402", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 31, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1093/bioinformatics/btt274", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 26, "container-title": ["Bioinformatics"], "subject": null}
 {"DOI": "10.1002/2017je005267", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 23, "container-title": ["Journal of Geophysical Research: Planets"], "subject": null}
 {"DOI": "10.1063/1.4770498", "publisher": "AIP Publishing", "is-referenced-by-count": 29, "container-title": ["The Journal of Chemical Physics"], "subject": ["Physical and Theoretical Chemistry", "General Physics and Astronomy"]}
-{"DOI": "10.1093/her/cyt058", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 29, "container-title": ["Health Education Research"], "subject": null}
+{"DOI": "10.1093/her/cyt058", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 30, "container-title": ["Health Education Research"], "subject": null}
 {"DOI": "10.1007/s13280-015-0644-x", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 31, "container-title": ["Ambio"], "subject": ["Ecology", "Geography, Planning and Development", "Environmental Chemistry", "General Medicine"]}
 {"DOI": "10.1111/hir.12048", "publisher": "Wiley", "is-referenced-by-count": 24, "container-title": ["Health Information & Libraries Journal"], "subject": null}
 {"DOI": "10.1093/mnras/stv2192", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 29, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
@@ -568,7 +568,7 @@
 {"DOI": "10.1016/j.scitotenv.2014.05.151", "publisher": "Elsevier BV", "is-referenced-by-count": 28, "container-title": ["Science of The Total Environment"], "subject": null}
 {"DOI": "10.1103/physrevlett.119.030501", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 34, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1109/tnsm.2015.2459073", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 27, "container-title": ["IEEE Transactions on Network and Service Management"], "subject": null}
-{"DOI": "10.1093/mnras/stu1774", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 23, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
+{"DOI": "10.1093/mnras/stu1774", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 25, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
 {"DOI": "10.3390/ijerph110605889", "publisher": "MDPI AG", "is-referenced-by-count": 22, "container-title": ["International Journal of Environmental Research and Public Health"], "subject": null}
 {"DOI": "10.1073/pnas.1503133112", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 30, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1109/jbhi.2013.2292829", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 33, "container-title": ["IEEE Journal of Biomedical and Health Informatics"], "subject": null}
@@ -633,7 +633,7 @@
 {"DOI": "10.1016/j.scitotenv.2014.10.112", "publisher": "Elsevier BV", "is-referenced-by-count": 24, "container-title": ["Science of The Total Environment"], "subject": null}
 {"DOI": "10.1587/transcom.e97.b.10", "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)", "is-referenced-by-count": 24, "container-title": ["IEICE Transactions on Communications"], "subject": null}
 {"DOI": "10.1038/ncomms15347", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 31, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
-{"DOI": "10.3847/1538-4357/aa6305", "publisher": "American Astronomical Society", "is-referenced-by-count": 30, "container-title": ["The Astrophysical Journal"], "subject": null}
+{"DOI": "10.3847/1538-4357/aa6305", "publisher": "American Astronomical Society", "is-referenced-by-count": 31, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1021/acs.biochem.5b00691", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 27, "container-title": ["Biochemistry"], "subject": null}
 {"DOI": "10.1109/jsac.2016.2605799", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 20, "container-title": ["IEEE Journal on Selected Areas in Communications"], "subject": null}
 {"DOI": "10.1016/j.bmc.2016.05.052", "publisher": "Elsevier BV", "is-referenced-by-count": 40, "container-title": ["Bioorganic & Medicinal Chemistry"], "subject": null}
@@ -737,9 +737,9 @@
 {"DOI": "10.1016/j.laa.2012.11.016", "publisher": "Elsevier BV", "is-referenced-by-count": 19, "container-title": ["Linear Algebra and its Applications"], "subject": ["Geometry and Topology", "Algebra and Number Theory", "Numerical Analysis", "Discrete Mathematics and Combinatorics"]}
 {"DOI": "10.1017/s0007114513002225", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 19, "container-title": ["British Journal of Nutrition"], "subject": ["Nutrition and Dietetics", "Medicine (miscellaneous)"]}
 {"DOI": "10.1007/s00125-013-2858-4", "publisher": "Springer Nature", "is-referenced-by-count": 24, "container-title": ["Diabetologia"], "subject": ["Internal Medicine", "Endocrinology, Diabetes and Metabolism"]}
-{"DOI": "10.1038/srep06290", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 22, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
+{"DOI": "10.1038/srep06290", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 23, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.1038/ncomms11417", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 19, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
-{"DOI": "10.3758/s13428-012-0266-1", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 17, "container-title": ["Behavior Research Methods"], "subject": null}
+{"DOI": "10.3758/s13428-012-0266-1", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 18, "container-title": ["Behavior Research Methods"], "subject": null}
 {"DOI": "10.1085/jgp.201210918", "publisher": "Rockefeller University Press", "is-referenced-by-count": 20, "container-title": ["The Journal of General Physiology"], "subject": null}
 {"DOI": "10.1186/1617-9625-11-20", "publisher": "E.U. European Publishing", "is-referenced-by-count": 23, "container-title": ["Tobacco Induced Diseases"], "subject": null}
 {"DOI": "10.1111/nyas.12447", "publisher": "Wiley", "is-referenced-by-count": 23, "container-title": ["Annals of the New York Academy of Sciences"], "subject": null}
@@ -845,7 +845,7 @@
 {"DOI": "10.1103/physrevb.87.161306", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 19, "container-title": ["Physical Review B"], "subject": null}
 {"DOI": "10.1073/pnas.1604978113", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 30, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.7448/ias.16.1.17978", "publisher": "Wiley", "is-referenced-by-count": 17, "container-title": ["Journal of the International AIDS Society"], "subject": null}
-{"DOI": "10.3945/jn.114.208579", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 15, "container-title": ["The Journal of Nutrition"], "subject": null}
+{"DOI": "10.3945/jn.114.208579", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 16, "container-title": ["The Journal of Nutrition"], "subject": null}
 {"DOI": "10.1038/srep02991", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 20, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.3389/fnhum.2015.00117", "publisher": "Frontiers Media SA", "is-referenced-by-count": 18, "container-title": ["Frontiers in Human Neuroscience"], "subject": null}
 {"DOI": "10.1158/0008-5472.can-12-3783", "publisher": "American Association for Cancer Research (AACR)", "is-referenced-by-count": 20, "container-title": ["Cancer Research"], "subject": null}
@@ -860,7 +860,7 @@
 {"DOI": "10.1080/02640414.2016.1142109", "publisher": "Informa UK Limited", "is-referenced-by-count": 22, "container-title": ["Journal of Sports Sciences"], "subject": null}
 {"DOI": "10.18352/ijc.584", "publisher": "Uopen Journals", "is-referenced-by-count": 18, "container-title": ["International Journal of the Commons"], "subject": null}
 {"DOI": "10.1007/s12630-012-9879-1", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 20, "container-title": ["Canadian Journal of Anesthesia/Journal canadien d'anesth\u00e9sie"], "subject": ["Anesthesiology and Pain Medicine", "General Medicine"]}
-{"DOI": "10.1039/c3em00630a", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 16, "container-title": ["Environ. Sci.: Processes Impacts"], "subject": null}
+{"DOI": "10.1039/c3em00630a", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 17, "container-title": ["Environ. Sci.: Processes Impacts"], "subject": null}
 {"DOI": "10.5770/cgj.20.240", "publisher": "Canadian Geriatrics Society", "is-referenced-by-count": 22, "container-title": ["Canadian Geriatrics Journal"], "subject": null}
 {"DOI": "10.1103/physreve.91.023301", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 19, "container-title": ["Physical Review E"], "subject": null}
 {"DOI": "10.1093/mnras/stt2337", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 17, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
@@ -893,7 +893,7 @@
 {"DOI": "10.1016/j.gexplo.2015.12.005", "publisher": "Elsevier BV", "is-referenced-by-count": 21, "container-title": ["Journal of Geochemical Exploration"], "subject": null}
 {"DOI": "10.1088/1367-2630/18/3/033024", "publisher": "IOP Publishing", "is-referenced-by-count": 19, "container-title": ["New Journal of Physics"], "subject": null}
 {"DOI": "10.1167/iovs.14-14543", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 10, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
-{"DOI": "10.2196/mhealth.7141", "publisher": "JMIR Publications Inc.", "is-referenced-by-count": 42, "container-title": ["JMIR mHealth and uHealth"], "subject": null}
+{"DOI": "10.2196/mhealth.7141", "publisher": "JMIR Publications Inc.", "is-referenced-by-count": 43, "container-title": ["JMIR mHealth and uHealth"], "subject": null}
 {"DOI": "10.2522/ptj.20130603", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 23, "container-title": ["Physical Therapy"], "subject": null}
 {"DOI": "10.1002/job.1963", "publisher": "Wiley", "is-referenced-by-count": 19, "container-title": ["Journal of Organizational Behavior"], "subject": null}
 {"DOI": "10.1016/j.jhazmat.2013.05.011", "publisher": "Elsevier BV", "is-referenced-by-count": 17, "container-title": ["Journal of Hazardous Materials"], "subject": null}
@@ -942,7 +942,7 @@
 {"DOI": "10.1364/optica.4.000077", "publisher": "The Optical Society", "is-referenced-by-count": 21, "container-title": ["Optica"], "subject": null}
 {"DOI": "10.1080/10410236.2015.1089456", "publisher": "Informa UK Limited", "is-referenced-by-count": 18, "container-title": ["Health Communication"], "subject": ["Communication", "Health(social science)"]}
 {"DOI": "10.1186/1471-2474-14-114", "publisher": "Springer Nature", "is-referenced-by-count": 13, "container-title": ["BMC Musculoskeletal Disorders"], "subject": null}
-{"DOI": "10.1017/cjn.2016.25", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 18, "container-title": ["Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques"], "subject": ["Neurology", "Clinical Neurology", "General Medicine"]}
+{"DOI": "10.1017/cjn.2016.25", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 19, "container-title": ["Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques"], "subject": ["Neurology", "Clinical Neurology", "General Medicine"]}
 {"DOI": "10.1186/1471-2377-13-93", "publisher": "Springer Nature", "is-referenced-by-count": 14, "container-title": ["BMC Neurology"], "subject": null}
 {"DOI": "10.1007/jhep09(2014)173", "publisher": "Springer Nature", "is-referenced-by-count": 14, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1093/nar/gkw845", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 9, "container-title": ["Nucleic Acids Research"], "subject": null}
@@ -995,7 +995,7 @@
 {"DOI": "10.1007/jhep04(2014)119", "publisher": "Springer Nature", "is-referenced-by-count": 14, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1103/physrevlett.119.261802", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 19, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1093/mnras/stv1518", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 18, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1002/2015jg003065", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 15, "container-title": ["Journal of Geophysical Research: Biogeosciences"], "subject": null}
+{"DOI": "10.1002/2015jg003065", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 16, "container-title": ["Journal of Geophysical Research: Biogeosciences"], "subject": null}
 {"DOI": "10.1073/pnas.1524160113", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 18, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": null}
 {"DOI": "10.1103/physrevlett.110.087205", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 15, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1093/mnras/stu1399", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 16, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
@@ -1112,7 +1112,7 @@
 {"DOI": "10.1002/ecs2.1462", "publisher": "Wiley", "is-referenced-by-count": 14, "container-title": ["Ecosphere"], "subject": null}
 {"DOI": "10.3233/jad-160907", "publisher": "IOS Press", "is-referenced-by-count": 11, "container-title": ["Journal of Alzheimer's Disease"], "subject": null}
 {"DOI": "10.3758/s13423-012-0323-x", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 7, "container-title": ["Psychonomic Bulletin & Review"], "subject": ["Experimental and Cognitive Psychology", "Arts and Humanities (miscellaneous)", "Developmental and Educational Psychology"]}
-{"DOI": "10.1038/ncomms11219", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 15, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
+{"DOI": "10.1038/ncomms11219", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 16, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1016/j.ssci.2015.07.029", "publisher": "Elsevier BV", "is-referenced-by-count": 16, "container-title": ["Safety Science"], "subject": null}
 {"DOI": "10.3141/2430-16", "publisher": "SAGE Publications", "is-referenced-by-count": 15, "container-title": ["Transportation Research Record: Journal of the Transportation Research Board"], "subject": null}
 {"DOI": "10.1007/s40820-016-0116-2", "publisher": "Springer Nature", "is-referenced-by-count": 14, "container-title": ["Nano-Micro Letters"], "subject": null}
@@ -1156,7 +1156,7 @@
 {"DOI": "10.1007/jhep03(2017)151", "publisher": "Springer Nature", "is-referenced-by-count": 15, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.1016/j.surfcoat.2016.11.014", "publisher": "Elsevier BV", "is-referenced-by-count": 27, "container-title": ["Surface and Coatings Technology"], "subject": null}
 {"DOI": "10.1103/physreva.91.052325", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 14, "container-title": ["Physical Review A"], "subject": null}
-{"DOI": "10.1371/journal.pone.0136589", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 19, "container-title": ["PLOS ONE"], "subject": null}
+{"DOI": "10.1371/journal.pone.0136589", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 20, "container-title": ["PLOS ONE"], "subject": null}
 {"DOI": "10.1111/aos.12275", "publisher": "Wiley", "is-referenced-by-count": 11, "container-title": ["Acta Ophthalmologica"], "subject": null}
 {"DOI": "10.1039/c3sm50837d", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 11, "container-title": ["Soft Matter"], "subject": null}
 {"DOI": "10.1364/oe.23.009870", "publisher": "The Optical Society", "is-referenced-by-count": 13, "container-title": ["Optics Express"], "subject": null}
@@ -1218,7 +1218,7 @@
 {"DOI": "10.1089/cmb.2012.0089", "publisher": "Mary Ann Liebert Inc", "is-referenced-by-count": 15, "container-title": ["Journal of Computational Biology"], "subject": ["Modelling and Simulation", "Computational Theory and Mathematics", "Genetics", "Molecular Biology", "Computational Mathematics"]}
 {"DOI": "10.1371/journal.pone.0060180", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 10, "container-title": ["PLoS ONE"], "subject": null}
 {"DOI": "10.1088/1748-9326/9/12/124019", "publisher": "IOP Publishing", "is-referenced-by-count": 13, "container-title": ["Environmental Research Letters"], "subject": null}
-{"DOI": "10.1016/j.paid.2016.04.055", "publisher": "Elsevier BV", "is-referenced-by-count": 22, "container-title": ["Personality and Individual Differences"], "subject": null}
+{"DOI": "10.1016/j.paid.2016.04.055", "publisher": "Elsevier BV", "is-referenced-by-count": 23, "container-title": ["Personality and Individual Differences"], "subject": null}
 {"DOI": "10.1021/jacs.6b11779", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 15, "container-title": ["Journal of the American Chemical Society"], "subject": null}
 {"DOI": "10.1167/iovs.15-18936", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 12, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
 {"DOI": "10.1371/journal.pone.0147488", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 11, "container-title": ["PLOS ONE"], "subject": null}
@@ -1267,7 +1267,7 @@
 {"DOI": "10.1007/s00026-015-0251-3", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 11, "container-title": ["Annals of Combinatorics"], "subject": ["Discrete Mathematics and Combinatorics"]}
 {"DOI": "10.1210/en.2012-1934", "publisher": "The Endocrine Society", "is-referenced-by-count": 9, "container-title": ["Endocrinology"], "subject": null}
 {"DOI": "10.1098/rstb.2016.0261", "publisher": "The Royal Society", "is-referenced-by-count": 12, "container-title": ["Philosophical Transactions of the Royal Society B: Biological Sciences"], "subject": null}
-{"DOI": "10.1186/1471-2318-13-127", "publisher": "Springer Nature", "is-referenced-by-count": 9, "container-title": ["BMC Geriatrics"], "subject": null}
+{"DOI": "10.1186/1471-2318-13-127", "publisher": "Springer Nature", "is-referenced-by-count": 10, "container-title": ["BMC Geriatrics"], "subject": null}
 {"DOI": "10.1021/acs.inorgchem.7b00852", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 11, "container-title": ["Inorganic Chemistry"], "subject": null}
 {"DOI": "10.1088/1748-9326/aa7bf4", "publisher": "IOP Publishing", "is-referenced-by-count": 14, "container-title": ["Environmental Research Letters"], "subject": null}
 {"DOI": "10.3847/1538-4357/aa6c30", "publisher": "American Astronomical Society", "is-referenced-by-count": 12, "container-title": ["The Astrophysical Journal"], "subject": null}
@@ -1334,7 +1334,7 @@
 {"DOI": "10.3390/ijgi3020481", "publisher": "MDPI AG", "is-referenced-by-count": 10, "container-title": ["ISPRS International Journal of Geo-Information"], "subject": null}
 {"DOI": "10.1093/aje/kwt272", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 10, "container-title": ["American Journal of Epidemiology"], "subject": null}
 {"DOI": "10.1186/s12971-015-0031-1", "publisher": "E.U. European Publishing", "is-referenced-by-count": 10, "container-title": ["Tobacco Induced Diseases"], "subject": null}
-{"DOI": "10.1038/s41534-017-0045-z", "publisher": "Springer Nature", "is-referenced-by-count": 14, "container-title": ["npj Quantum Information"], "subject": null}
+{"DOI": "10.1038/s41534-017-0045-z", "publisher": "Springer Nature", "is-referenced-by-count": 16, "container-title": ["npj Quantum Information"], "subject": null}
 {"DOI": "10.1017/s0007114515003323", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 14, "container-title": ["British Journal of Nutrition"], "subject": ["Nutrition and Dietetics", "Medicine (miscellaneous)"]}
 {"DOI": "10.3847/1538-4357/836/1/120", "publisher": "American Astronomical Society", "is-referenced-by-count": 20, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1103/physrevx.5.041003", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 10, "container-title": ["Physical Review X"], "subject": null}
@@ -1416,7 +1416,7 @@
 {"DOI": "10.1103/physreva.89.010302", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 11, "container-title": ["Physical Review A"], "subject": null}
 {"DOI": "10.1063/1.4982168", "publisher": "AIP Publishing", "is-referenced-by-count": 14, "container-title": ["Applied Physics Letters"], "subject": null}
 {"DOI": "10.1111/jtm.12172", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 11, "container-title": ["Journal of Travel Medicine"], "subject": null}
-{"DOI": "10.1111/cxo.12160", "publisher": "Wiley", "is-referenced-by-count": 17, "container-title": ["Clinical and Experimental Optometry"], "subject": null}
+{"DOI": "10.1111/cxo.12160", "publisher": "Wiley", "is-referenced-by-count": 18, "container-title": ["Clinical and Experimental Optometry"], "subject": null}
 {"DOI": "10.1016/j.healthpol.2014.10.019", "publisher": "Elsevier BV", "is-referenced-by-count": 10, "container-title": ["Health Policy"], "subject": null}
 {"DOI": "10.1167/iovs.14-14844", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 9, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
 {"DOI": "10.1074/jbc.m117.784165", "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)", "is-referenced-by-count": 17, "container-title": ["Journal of Biological Chemistry"], "subject": null}
@@ -1461,7 +1461,7 @@
 {"DOI": "10.1186/1472-684x-13-10", "publisher": "Springer Nature", "is-referenced-by-count": 8, "container-title": ["BMC Palliative Care"], "subject": null}
 {"DOI": "10.1021/acscentsci.6b00297", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 12, "container-title": ["ACS Central Science"], "subject": null}
 {"DOI": "10.1109/tpds.2012.23", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 12, "container-title": ["IEEE Transactions on Parallel and Distributed Systems"], "subject": ["Signal Processing", "Hardware and Architecture", "Computational Theory and Mathematics"]}
-{"DOI": "10.1016/j.jestch.2014.10.002", "publisher": "Elsevier BV", "is-referenced-by-count": 12, "container-title": ["Engineering Science and Technology, an International Journal"], "subject": null}
+{"DOI": "10.1016/j.jestch.2014.10.002", "publisher": "Elsevier BV", "is-referenced-by-count": 13, "container-title": ["Engineering Science and Technology, an International Journal"], "subject": null}
 {"DOI": "10.1088/1748-9326/9/5/054001", "publisher": "IOP Publishing", "is-referenced-by-count": 12, "container-title": ["Environmental Research Letters"], "subject": null}
 {"DOI": "10.1017/s0714980814000579", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 11, "container-title": ["Canadian Journal on Aging / La Revue canadienne du vieillissement"], "subject": ["Community and Home Care", "Gerontology", "Health(social science)", "Geriatrics and Gerontology"]}
 {"DOI": "10.1038/srep35090", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 14, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
@@ -1525,7 +1525,7 @@
 {"DOI": "10.1682/jrrd.2014.02.0064", "publisher": "Journal of Rehabilitation Research & Development", "is-referenced-by-count": 11, "container-title": ["Journal of Rehabilitation Research and Development"], "subject": null}
 {"DOI": "10.1088/0004-637x/793/1/11", "publisher": "IOP Publishing", "is-referenced-by-count": 8, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1016/j.jpeds.2015.11.033", "publisher": "Elsevier BV", "is-referenced-by-count": 10, "container-title": ["The Journal of Pediatrics"], "subject": null}
-{"DOI": "10.1109/tmech.2015.2479404", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 13, "container-title": ["IEEE/ASME Transactions on Mechatronics"], "subject": null}
+{"DOI": "10.1109/tmech.2015.2479404", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 14, "container-title": ["IEEE/ASME Transactions on Mechatronics"], "subject": null}
 {"DOI": "10.1155/2013/304601", "publisher": "SAGE Publications", "is-referenced-by-count": 13, "container-title": ["International Journal of Distributed Sensor Networks"], "subject": null}
 {"DOI": "10.1002/2017gl074702", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 16, "container-title": ["Geophysical Research Letters"], "subject": null}
 {"DOI": "10.1016/j.envsoft.2015.12.014", "publisher": "Elsevier BV", "is-referenced-by-count": 16, "container-title": ["Environmental Modelling & Software"], "subject": null}
@@ -1586,7 +1586,7 @@
 {"DOI": "10.1186/1478-4505-12-43", "publisher": "Springer Nature", "is-referenced-by-count": 8, "container-title": ["Health Research Policy and Systems"], "subject": null}
 {"DOI": "10.1186/1472-684x-13-58", "publisher": "Springer Nature", "is-referenced-by-count": 11, "container-title": ["BMC Palliative Care"], "subject": null}
 {"DOI": "10.1186/1477-5956-11-s1-s8", "publisher": "Springer Nature", "is-referenced-by-count": 10, "container-title": ["Proteome Science"], "subject": null}
-{"DOI": "10.1016/j.palaeo.2015.09.014", "publisher": "Elsevier BV", "is-referenced-by-count": 10, "container-title": ["Palaeogeography, Palaeoclimatology, Palaeoecology"], "subject": null}
+{"DOI": "10.1016/j.palaeo.2015.09.014", "publisher": "Elsevier BV", "is-referenced-by-count": 11, "container-title": ["Palaeogeography, Palaeoclimatology, Palaeoecology"], "subject": null}
 {"DOI": "10.1021/acs.macromol.6b01295", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 7, "container-title": ["Macromolecules"], "subject": null}
 {"DOI": "10.1371/journal.pone.0156118", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 21, "container-title": ["PLOS ONE"], "subject": null}
 {"DOI": "10.1002/grl.50717", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 6, "container-title": ["Geophysical Research Letters"], "subject": null}
@@ -1657,7 +1657,7 @@
 {"DOI": "10.1128/msphere.00387-16", "publisher": "American Society for Microbiology", "is-referenced-by-count": 6, "container-title": ["mSphere"], "subject": null}
 {"DOI": "10.1214/13-aos1136", "publisher": "Institute of Mathematical Statistics", "is-referenced-by-count": 9, "container-title": ["The Annals of Statistics"], "subject": null}
 {"DOI": "10.5194/acp-13-10227-2013", "publisher": "Copernicus GmbH", "is-referenced-by-count": 6, "container-title": ["Atmospheric Chemistry and Physics"], "subject": null}
-{"DOI": "10.1136/tobaccocontrol-2014-051771", "publisher": "BMJ", "is-referenced-by-count": 9, "container-title": ["Tobacco Control"], "subject": null}
+{"DOI": "10.1136/tobaccocontrol-2014-051771", "publisher": "BMJ", "is-referenced-by-count": 10, "container-title": ["Tobacco Control"], "subject": null}
 {"DOI": "10.1167/iovs.14-14022", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 7, "container-title": ["Investigative Opthalmology & Visual Science"], "subject": null}
 {"DOI": "10.1371/journal.pone.0187338", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 1, "container-title": ["PLOS ONE"], "subject": null}
 {"DOI": "10.3390/en10070868", "publisher": "MDPI AG", "is-referenced-by-count": 9, "container-title": ["Energies"], "subject": null}
@@ -1739,7 +1739,7 @@
 {"DOI": "10.3390/ijerph111111898", "publisher": "MDPI AG", "is-referenced-by-count": 7, "container-title": ["International Journal of Environmental Research and Public Health"], "subject": null}
 {"DOI": "10.15282/jmes.10.1.2016.6.0174", "publisher": "Universiti Malaysia Pahang Publishing", "is-referenced-by-count": 0, "container-title": ["Journal of Mechanical Engineering and Sciences"], "subject": null}
 {"DOI": "10.1371/journal.pone.0098808", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 6, "container-title": ["PLoS ONE"], "subject": null}
-{"DOI": "10.1038/srep07083", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 7, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
+{"DOI": "10.1038/srep07083", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 8, "container-title": ["Scientific Reports"], "subject": ["Multidisciplinary"]}
 {"DOI": "10.5194/bg-14-3585-2017", "publisher": "Copernicus GmbH", "is-referenced-by-count": 10, "container-title": ["Biogeosciences"], "subject": null}
 {"DOI": "10.1063/1.4939783", "publisher": "AIP Publishing", "is-referenced-by-count": 9, "container-title": ["Journal of Mathematical Physics"], "subject": null}
 {"DOI": "10.1016/j.jtbi.2016.01.027", "publisher": "Elsevier BV", "is-referenced-by-count": 7, "container-title": ["Journal of Theoretical Biology"], "subject": null}
@@ -1776,7 +1776,7 @@
 {"DOI": "10.1136/tobaccocontrol-2014-051765", "publisher": "BMJ", "is-referenced-by-count": 3, "container-title": ["Tobacco Control"], "subject": null}
 {"DOI": "10.1017/s0030605312001238", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 6, "container-title": ["Oryx"], "subject": ["Ecology, Evolution, Behavior and Systematics", "Nature and Landscape Conservation"]}
 {"DOI": "10.1016/j.jtbi.2014.05.010", "publisher": "Elsevier BV", "is-referenced-by-count": 7, "container-title": ["Journal of Theoretical Biology"], "subject": null}
-{"DOI": "10.1145/2858036.2858144", "publisher": "ACM Press", "is-referenced-by-count": 16, "container-title": ["Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems - CHI '16"], "subject": null}
+{"DOI": "10.1145/2858036.2858144", "publisher": "ACM Press", "is-referenced-by-count": 17, "container-title": ["Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems - CHI '16"], "subject": null}
 {"DOI": "10.1002/jor.23564", "publisher": "Wiley", "is-referenced-by-count": 10, "container-title": ["Journal of Orthopaedic Research"], "subject": null}
 {"DOI": "10.1016/j.gsf.2017.05.002", "publisher": "Elsevier BV", "is-referenced-by-count": 17, "container-title": ["Geoscience Frontiers"], "subject": null}
 {"DOI": "10.1073/pnas.1618138113", "publisher": "Proceedings of the National Academy of Sciences", "is-referenced-by-count": 9, "container-title": ["Proceedings of the National Academy of Sciences"], "subject": ["Multidisciplinary"]}
@@ -1901,7 +1901,7 @@
 {"DOI": "10.2196/mhealth.8211", "publisher": "JMIR Publications Inc.", "is-referenced-by-count": 21, "container-title": ["JMIR mHealth and uHealth"], "subject": null}
 {"DOI": "10.1140/epje/i2017-11575-7", "publisher": "Springer Nature", "is-referenced-by-count": 7, "container-title": ["The European Physical Journal E"], "subject": null}
 {"DOI": "10.1371/journal.pone.0089345", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 4, "container-title": ["PLoS ONE"], "subject": null}
-{"DOI": "10.1109/tcsi.2016.2611561", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 15, "container-title": ["IEEE Transactions on Circuits and Systems I: Regular Papers"], "subject": null}
+{"DOI": "10.1109/tcsi.2016.2611561", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 16, "container-title": ["IEEE Transactions on Circuits and Systems I: Regular Papers"], "subject": null}
 {"DOI": "10.3390/e16052454", "publisher": "MDPI AG", "is-referenced-by-count": 8, "container-title": ["Entropy"], "subject": null}
 {"DOI": "10.1088/1367-2630/17/12/123010", "publisher": "IOP Publishing", "is-referenced-by-count": 11, "container-title": ["New Journal of Physics"], "subject": null}
 {"DOI": "10.3163/1536-5050.102.3.013", "publisher": "University Library System, University of Pittsburgh", "is-referenced-by-count": 3, "container-title": ["Journal of the Medical Library Association : JMLA"], "subject": null}
@@ -1960,7 +1960,7 @@
 {"DOI": "10.3390/s17061215", "publisher": "MDPI AG", "is-referenced-by-count": 5, "container-title": ["Sensors"], "subject": null}
 {"DOI": "10.1155/2013/101974", "publisher": "Hindawi Limited", "is-referenced-by-count": 3, "container-title": ["Abstract and Applied Analysis"], "subject": null}
 {"DOI": "10.1021/acsami.5b01954", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 8, "container-title": ["ACS Applied Materials & Interfaces"], "subject": null}
-{"DOI": "10.1088/0960-1317/25/7/075005", "publisher": "IOP Publishing", "is-referenced-by-count": 5, "container-title": ["Journal of Micromechanics and Microengineering"], "subject": null}
+{"DOI": "10.1088/0960-1317/25/7/075005", "publisher": "IOP Publishing", "is-referenced-by-count": 6, "container-title": ["Journal of Micromechanics and Microengineering"], "subject": null}
 {"DOI": "10.1682/jrrd.2012.02.0031", "publisher": "Journal of Rehabilitation Research & Development", "is-referenced-by-count": 5, "container-title": ["The Journal of Rehabilitation Research and Development"], "subject": null}
 {"DOI": "10.1002/jhm.2289", "publisher": "Frontline Medical Communications, Inc.", "is-referenced-by-count": 5, "container-title": ["Journal of Hospital Medicine"], "subject": null}
 {"DOI": "10.1136/tobaccocontrol-2015-052508", "publisher": "BMJ", "is-referenced-by-count": 6, "container-title": ["Tobacco Control"], "subject": null}
@@ -2158,7 +2158,7 @@
 {"DOI": "10.1177/1687814016686925", "publisher": "SAGE Publications", "is-referenced-by-count": 10, "container-title": ["Advances in Mechanical Engineering"], "subject": null}
 {"DOI": "10.1587/transinf.2013lop0010", "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)", "is-referenced-by-count": 5, "container-title": ["IEICE Transactions on Information and Systems"], "subject": null}
 {"DOI": "10.1515/spma-2015-0022", "publisher": "Walter de Gruyter GmbH", "is-referenced-by-count": 1, "container-title": ["Special Matrices"], "subject": null}
-{"DOI": "10.1103/physreva.94.013605", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 5, "container-title": ["Physical Review A"], "subject": null}
+{"DOI": "10.1103/physreva.94.013605", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 6, "container-title": ["Physical Review A"], "subject": null}
 {"DOI": "10.1152/jn.00914.2015", "publisher": "American Physiological Society", "is-referenced-by-count": 5, "container-title": ["Journal of Neurophysiology"], "subject": null}
 {"DOI": "10.1093/ntr/ntu017", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 4, "container-title": ["Nicotine & Tobacco Research"], "subject": null}
 {"DOI": "10.1002/2016wr019736", "publisher": "American Geophysical Union (AGU)", "is-referenced-by-count": 6, "container-title": ["Water Resources Research"], "subject": null}
@@ -2421,7 +2421,7 @@
 {"DOI": "10.5194/hess-21-4825-2017", "publisher": "Copernicus GmbH", "is-referenced-by-count": 6, "container-title": ["Hydrology and Earth System Sciences"], "subject": null}
 {"DOI": "10.1016/j.laa.2016.02.019", "publisher": "Elsevier BV", "is-referenced-by-count": 4, "container-title": ["Linear Algebra and its Applications"], "subject": ["Geometry and Topology", "Algebra and Number Theory", "Numerical Analysis", "Discrete Mathematics and Combinatorics"]}
 {"DOI": "10.1186/1617-9625-12-8", "publisher": "E.U. European Publishing", "is-referenced-by-count": 4, "container-title": ["Tobacco Induced Diseases"], "subject": null}
-{"DOI": "10.3390/s16050662", "publisher": "MDPI AG", "is-referenced-by-count": 5, "container-title": ["Sensors"], "subject": null}
+{"DOI": "10.3390/s16050662", "publisher": "MDPI AG", "is-referenced-by-count": 6, "container-title": ["Sensors"], "subject": null}
 {"DOI": "10.1038/s41598-017-07180-1", "publisher": "Springer Nature", "is-referenced-by-count": 8, "container-title": ["Scientific Reports"], "subject": null}
 {"DOI": "10.3141/2440-10", "publisher": "SAGE Publications", "is-referenced-by-count": 7, "container-title": ["Transportation Research Record: Journal of the Transportation Research Board"], "subject": null}
 {"DOI": "10.1111/1541-4337.12207", "publisher": "Wiley", "is-referenced-by-count": 7, "container-title": ["Comprehensive Reviews in Food Science and Food Safety"], "subject": null}
@@ -2779,7 +2779,7 @@
 {"DOI": "10.1016/j.oraloncology.2014.08.012", "publisher": "Elsevier BV", "is-referenced-by-count": 3, "container-title": ["Oral Oncology"], "subject": null}
 {"DOI": "10.1177/1715163515577616", "publisher": "SAGE Publications", "is-referenced-by-count": 2, "container-title": ["Canadian Pharmacists Journal / Revue des Pharmaciens du Canada"], "subject": null}
 {"DOI": "10.1214/14-ejs920rej", "publisher": "Institute of Mathematical Statistics", "is-referenced-by-count": 2, "container-title": ["Electronic Journal of Statistics"], "subject": null}
-{"DOI": "10.1088/1367-2630/aa5d64", "publisher": "IOP Publishing", "is-referenced-by-count": 4, "container-title": ["New Journal of Physics"], "subject": null}
+{"DOI": "10.1088/1367-2630/aa5d64", "publisher": "IOP Publishing", "is-referenced-by-count": 5, "container-title": ["New Journal of Physics"], "subject": null}
 {"DOI": "10.1186/s12889-016-3899-7", "publisher": "Springer Nature", "is-referenced-by-count": 3, "container-title": ["BMC Public Health"], "subject": null}
 {"DOI": "10.5194/acp-17-10143-2017", "publisher": "Copernicus GmbH", "is-referenced-by-count": 2, "container-title": ["Atmospheric Chemistry and Physics"], "subject": null}
 {"DOI": "10.1038/s41598-017-17453-4", "publisher": "Springer Nature", "is-referenced-by-count": 4, "container-title": ["Scientific Reports"], "subject": null}
@@ -2940,7 +2940,7 @@
 {"DOI": "10.1177/1715163516641432", "publisher": "SAGE Publications", "is-referenced-by-count": 1, "container-title": ["Canadian Pharmacists Journal / Revue des Pharmaciens du Canada"], "subject": null}
 {"DOI": "10.1093/her/cyv063", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 0, "container-title": ["Health Education Research"], "subject": null}
 {"DOI": "10.1093/femsec/fiw239", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 9, "container-title": ["FEMS Microbiology Ecology"], "subject": null}
-{"DOI": "10.3389/fnhum.2016.00532", "publisher": "Frontiers Media SA", "is-referenced-by-count": 4, "container-title": ["Frontiers in Human Neuroscience"], "subject": null}
+{"DOI": "10.3389/fnhum.2016.00532", "publisher": "Frontiers Media SA", "is-referenced-by-count": 5, "container-title": ["Frontiers in Human Neuroscience"], "subject": null}
 {"DOI": "10.1515/demo-2017-0005", "publisher": "Walter de Gruyter GmbH", "is-referenced-by-count": 2, "container-title": ["Dependence Modeling"], "subject": null}
 {"DOI": "10.2196/mhealth.3250", "publisher": "JMIR Publications Inc.", "is-referenced-by-count": 5, "container-title": ["JMIR mHealth and uHealth"], "subject": null}
 {"DOI": "10.3847/1538-4357/aa9375", "publisher": "American Astronomical Society", "is-referenced-by-count": 2, "container-title": ["The Astrophysical Journal"], "subject": null}
@@ -3202,7 +3202,7 @@
 {"DOI": "10.3847/1538-4357/aa8562", "publisher": "American Astronomical Society", "is-referenced-by-count": 3, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.4313/teem.2015.16.4.169", "publisher": "The Korean Institute of Electrical and Electronic Material Engineers", "is-referenced-by-count": 3, "container-title": ["Transactions on Electrical and Electronic Materials"], "subject": null}
 {"DOI": "10.1109/tac.2016.2621764", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 6, "container-title": ["IEEE Transactions on Automatic Control"], "subject": null}
-{"DOI": "10.1136/bmjopen-2017-016477", "publisher": "BMJ", "is-referenced-by-count": 4, "container-title": ["BMJ Open"], "subject": null}
+{"DOI": "10.1136/bmjopen-2017-016477", "publisher": "BMJ", "is-referenced-by-count": 5, "container-title": ["BMJ Open"], "subject": null}
 {"DOI": "10.1371/journal.pone.0187000", "publisher": "Public Library of Science (PLoS)", "is-referenced-by-count": 2, "container-title": ["PLOS ONE"], "subject": null}
 {"DOI": "10.1155/2017/1952594", "publisher": "Hindawi Limited", "is-referenced-by-count": 1, "container-title": ["Journal of Control Science and Engineering"], "subject": null}
 {"DOI": "10.1017/s0317167100017145", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 2, "container-title": ["Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques"], "subject": ["Neurology", "Clinical Neurology", "General Medicine"]}
@@ -3501,7 +3501,7 @@
 {"DOI": "10.1016/j.sbi.2016.06.016", "publisher": "Elsevier BV", "is-referenced-by-count": 0, "container-title": ["Current Opinion in Structural Biology"], "subject": null}
 {"DOI": "10.3390/w9100750", "publisher": "MDPI AG", "is-referenced-by-count": 0, "container-title": ["Water"], "subject": null}
 {"DOI": "10.1117/1.jrs.11.026012", "publisher": "SPIE-Intl Soc Optical Eng", "is-referenced-by-count": 0, "container-title": ["Journal of Applied Remote Sensing"], "subject": ["General Earth and Planetary Sciences"]}
-{"DOI": "10.5194/isprsarchives-xli-b1-545-2016", "publisher": "Copernicus GmbH", "is-referenced-by-count": 0, "container-title": ["ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"], "subject": null}
+{"DOI": "10.5194/isprsarchives-xli-b1-545-2016", "publisher": "Copernicus GmbH", "is-referenced-by-count": 1, "container-title": ["ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"], "subject": null}
 {"DOI": "10.1049/htl.2017.0072", "publisher": "Institution of Engineering and Technology (IET)", "is-referenced-by-count": 0, "container-title": ["Healthcare Technology Letters"], "subject": null}
 {"DOI": "10.3390/e19090495", "publisher": "MDPI AG", "is-referenced-by-count": 0, "container-title": ["Entropy"], "subject": null}
 {"DOI": "10.1007/s10899-017-9696-0", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Journal of Gambling Studies"], "subject": null}
@@ -3631,7 +3631,7 @@
 {"DOI": "10.3141/2601-05", "publisher": "SAGE Publications", "is-referenced-by-count": 1, "container-title": ["Transportation Research Record: Journal of the Transportation Research Board"], "subject": null}
 {"DOI": "10.1093/heapro/dav117", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 0, "container-title": ["Health Promotion International"], "subject": null}
 {"DOI": "10.3390/su8070694", "publisher": "MDPI AG", "is-referenced-by-count": 5, "container-title": ["Sustainability"], "subject": null}
-{"DOI": "10.5888/pcd12.150297", "publisher": "Centers for Disease Control and Prevention (CDC)", "is-referenced-by-count": 0, "container-title": ["Preventing Chronic Disease"], "subject": null}
+{"DOI": "10.5888/pcd12.150297", "publisher": "Centers for Disease Control and Prevention (CDC)", "is-referenced-by-count": 1, "container-title": ["Preventing Chronic Disease"], "subject": null}
 {"DOI": "10.1186/s12961-017-0182-z", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Health Research Policy and Systems"], "subject": null}
 {"DOI": "10.1088/1742-6596/734/3/032121", "publisher": "IOP Publishing", "is-referenced-by-count": 1, "container-title": ["Journal of Physics: Conference Series"], "subject": null}
 {"DOI": "10.1186/s13750-017-0087-x", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Environmental Evidence"], "subject": null}
@@ -3706,9 +3706,9 @@
 {"DOI": "10.1186/s12889-017-4722-9", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["BMC Public Health"], "subject": null}
 {"DOI": "10.1063/1.4993587", "publisher": "AIP Publishing", "is-referenced-by-count": 1, "container-title": ["Journal of Applied Physics"], "subject": null}
 {"DOI": "10.1007/s00454-014-9628-z", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 0, "container-title": ["Discrete & Computational Geometry"], "subject": ["Theoretical Computer Science", "Computational Theory and Mathematics", "Geometry and Topology", "Discrete Mathematics and Combinatorics"]}
-{"DOI": "10.3390/w9110872", "publisher": "MDPI AG", "is-referenced-by-count": 1, "container-title": ["Water"], "subject": null}
+{"DOI": "10.3390/w9110872", "publisher": "MDPI AG", "is-referenced-by-count": 3, "container-title": ["Water"], "subject": null}
 {"DOI": "10.1007/s00267-015-0540-y", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 0, "container-title": ["Environmental Management"], "subject": ["Ecology", "Global and Planetary Change", "Pollution"]}
-{"DOI": "10.1017/s0305741016001004", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 0, "container-title": ["The China Quarterly"], "subject": null}
+{"DOI": "10.1017/s0305741016001004", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 0, "container-title": ["The China Quarterly"], "subject": ["Political Science and International Relations", "Geography, Planning and Development", "Development"]}
 {"DOI": "10.1093/imrn/rnw165", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 0, "container-title": ["International Mathematics Research Notices"], "subject": null}
 {"DOI": "10.1016/j.egypro.2014.11.171", "publisher": "Elsevier BV", "is-referenced-by-count": 0, "container-title": ["Energy Procedia"], "subject": null}
 {"DOI": "10.3389/fninf.2017.00033", "publisher": "Frontiers Media SA", "is-referenced-by-count": 1, "container-title": ["Frontiers in Neuroinformatics"], "subject": null}
@@ -3868,19 +3868,19 @@
 {"DOI": "10.1590/0102-311x00140315", "publisher": "FapUNIFESP (SciELO)", "is-referenced-by-count": 0, "container-title": ["Cadernos de Sa\u00fade P\u00fablica"], "subject": null}
 {"DOI": "10.3758/s13423-015-0971-8", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Psychonomic Bulletin & Review"], "subject": ["Experimental and Cognitive Psychology", "Arts and Humanities (miscellaneous)", "Developmental and Educational Psychology"]}
 {"DOI": "10.1136/bjsports-2017-097608", "publisher": "BMJ", "is-referenced-by-count": 40, "container-title": ["British Journal of Sports Medicine"], "subject": null}
-{"DOI": "10.1002/smll.201702737", "publisher": "Wiley", "is-referenced-by-count": 72, "container-title": ["Small"], "subject": null}
-{"DOI": "10.1021/acs.analchem.7b04502", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 78, "container-title": ["Analytical Chemistry"], "subject": null}
+{"DOI": "10.1002/smll.201702737", "publisher": "Wiley", "is-referenced-by-count": 74, "container-title": ["Small"], "subject": null}
+{"DOI": "10.1021/acs.analchem.7b04502", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 80, "container-title": ["Analytical Chemistry"], "subject": null}
 {"DOI": "10.1103/physrevlett.120.121602", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 48, "container-title": ["Physical Review Letters"], "subject": null}
-{"DOI": "10.1002/adma.201800561", "publisher": "Wiley", "is-referenced-by-count": 112, "container-title": ["Advanced Materials"], "subject": null}
+{"DOI": "10.1002/adma.201800561", "publisher": "Wiley", "is-referenced-by-count": 114, "container-title": ["Advanced Materials"], "subject": null}
 {"DOI": "10.3847/1538-4357/aaaa1b", "publisher": "American Astronomical Society", "is-referenced-by-count": 33, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.1038/s41567-018-0048-5", "publisher": "Springer Nature", "is-referenced-by-count": 44, "container-title": ["Nature Physics"], "subject": ["General Physics and Astronomy"]}
 {"DOI": "10.1038/s41467-018-03116-z", "publisher": "Springer Nature", "is-referenced-by-count": 38, "container-title": ["Nature Communications"], "subject": null}
 {"DOI": "10.1007/s10926-016-9690-x", "publisher": "Springer Nature", "is-referenced-by-count": 33, "container-title": ["Journal of Occupational Rehabilitation"], "subject": null}
 {"DOI": "10.1039/c7ee03083e", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 37, "container-title": ["Energy & Environmental Science"], "subject": null}
-{"DOI": "10.1007/jhep06(2018)046", "publisher": "Springer Nature", "is-referenced-by-count": 11, "container-title": ["Journal of High Energy Physics"], "subject": null}
+{"DOI": "10.1007/jhep06(2018)046", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 11, "container-title": ["Journal of High Energy Physics"], "subject": ["Nuclear and High Energy Physics"]}
 {"DOI": "10.1103/physrevx.8.021050", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 24, "container-title": ["Physical Review X"], "subject": null}
 {"DOI": "10.1002/adma.201705590", "publisher": "Wiley", "is-referenced-by-count": 43, "container-title": ["Advanced Materials"], "subject": null}
-{"DOI": "10.1039/c8ee00378e", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 39, "container-title": ["Energy & Environmental Science"], "subject": null}
+{"DOI": "10.1039/c8ee00378e", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 40, "container-title": ["Energy & Environmental Science"], "subject": null}
 {"DOI": "10.1039/c7en01029j", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 19, "container-title": ["Environmental Science: Nano"], "subject": null}
 {"DOI": "10.1117/1.jatis.4.2.021402", "publisher": "SPIE-Intl Soc Optical Eng", "is-referenced-by-count": 16, "container-title": ["Journal of Astronomical Telescopes, Instruments, and Systems"], "subject": null}
 {"DOI": "10.1038/s41467-018-03888-4", "publisher": "Springer Nature", "is-referenced-by-count": 21, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
@@ -3941,10 +3941,10 @@
 {"DOI": "10.1093/mnrasl/sly084", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 4, "container-title": ["Monthly Notices of the Royal Astronomical Society: Letters"], "subject": null}
 {"DOI": "10.1002/eet.1781", "publisher": "Wiley", "is-referenced-by-count": 9, "container-title": ["Environmental Policy and Governance"], "subject": null}
 {"DOI": "10.1103/physrevlett.121.121602", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 4, "container-title": ["Physical Review Letters"], "subject": null}
-{"DOI": "10.1017/jfm.2018.91", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 9, "container-title": ["Journal of Fluid Mechanics"], "subject": null}
+{"DOI": "10.1017/jfm.2018.91", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 9, "container-title": ["Journal of Fluid Mechanics"], "subject": ["Mechanical Engineering", "Mechanics of Materials", "Condensed Matter Physics"]}
 {"DOI": "10.1103/physrevlett.121.251802", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 8, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1093/mnras/stx2812", "publisher": "Oxford University Press (OUP)", "is-referenced-by-count": 5, "container-title": ["Monthly Notices of the Royal Astronomical Society"], "subject": null}
-{"DOI": "10.1039/c7tc05145j", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 7, "container-title": ["Journal of Materials Chemistry C"], "subject": null}
+{"DOI": "10.1039/c7tc05145j", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 8, "container-title": ["Journal of Materials Chemistry C"], "subject": null}
 {"DOI": "10.1186/s40168-017-0383-2", "publisher": "Springer Nature", "is-referenced-by-count": 8, "container-title": ["Microbiome"], "subject": null}
 {"DOI": "10.1103/physrevlett.120.078003", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 6, "container-title": ["Physical Review Letters"], "subject": null}
 {"DOI": "10.1103/physrevx.8.021074", "publisher": "American Physical Society (APS)", "is-referenced-by-count": 4, "container-title": ["Physical Review X"], "subject": null}
@@ -4020,7 +4020,7 @@
 {"DOI": "10.3390/ijerph15020282", "publisher": "MDPI AG", "is-referenced-by-count": 2, "container-title": ["International Journal of Environmental Research and Public Health"], "subject": null}
 {"DOI": "10.1088/1741-2552/aa9666", "publisher": "IOP Publishing", "is-referenced-by-count": 7, "container-title": ["Journal of Neural Engineering"], "subject": null}
 {"DOI": "10.1016/j.ces.2017.10.035", "publisher": "Elsevier BV", "is-referenced-by-count": 3, "container-title": ["Chemical Engineering Science"], "subject": null}
-{"DOI": "10.5194/hess-22-4381-2018", "publisher": "Copernicus GmbH", "is-referenced-by-count": 6, "container-title": ["Hydrology and Earth System Sciences"], "subject": null}
+{"DOI": "10.5194/hess-22-4381-2018", "publisher": "Copernicus GmbH", "is-referenced-by-count": 7, "container-title": ["Hydrology and Earth System Sciences"], "subject": null}
 {"DOI": "10.1016/j.apgeochem.2017.12.012", "publisher": "Elsevier BV", "is-referenced-by-count": 4, "container-title": ["Applied Geochemistry"], "subject": ["Geochemistry and Petrology", "Pollution", "Environmental Chemistry"]}
 {"DOI": "10.3847/1538-4357/aad6dd", "publisher": "American Astronomical Society", "is-referenced-by-count": 5, "container-title": ["The Astrophysical Journal"], "subject": null}
 {"DOI": "10.3390/min8010003", "publisher": "MDPI AG", "is-referenced-by-count": 2, "container-title": ["Minerals"], "subject": null}
@@ -4415,7 +4415,7 @@
 {"DOI": "10.1186/s12889-018-5903-x", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["BMC Public Health"], "subject": null}
 {"DOI": "10.1038/s41598-018-32834-z", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Scientific Reports"], "subject": null}
 {"DOI": "10.1167/tvst.7.5.5", "publisher": "Association for Research in Vision and Ophthalmology (ARVO)", "is-referenced-by-count": 1, "container-title": ["Translational Vision Science & Technology"], "subject": null}
-{"DOI": "10.1002/job.2253", "publisher": "Wiley", "is-referenced-by-count": 0, "container-title": ["Journal of Organizational Behavior"], "subject": null}
+{"DOI": "10.1002/job.2253", "publisher": "Wiley", "is-referenced-by-count": 3, "container-title": ["Journal of Organizational Behavior"], "subject": null}
 {"DOI": "10.1111/eva.12627", "publisher": "Wiley", "is-referenced-by-count": 0, "container-title": ["Evolutionary Applications"], "subject": null}
 {"DOI": "10.3389/fphys.2018.01406", "publisher": "Frontiers Media SA", "is-referenced-by-count": 0, "container-title": ["Frontiers in Physiology"], "subject": null}
 {"DOI": "10.1007/s00224-018-9850-9", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Theory of Computing Systems"], "subject": null}
@@ -4441,7 +4441,7 @@
 {"DOI": "10.1186/s12961-018-0374-1", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Health Research Policy and Systems"], "subject": null}
 {"DOI": "10.18332/tid/84617", "publisher": "E.U. European Publishing", "is-referenced-by-count": 0, "container-title": ["Tobacco Induced Diseases"], "subject": null}
 {"DOI": "10.1002/jcsm.12306", "publisher": "Wiley", "is-referenced-by-count": 2, "container-title": ["Journal of Cachexia, Sarcopenia and Muscle"], "subject": null}
-{"DOI": "10.1038/s41467-018-04348-9", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Nature Communications"], "subject": null}
+{"DOI": "10.1038/s41467-018-04348-9", "publisher": "Springer Science and Business Media LLC", "is-referenced-by-count": 0, "container-title": ["Nature Communications"], "subject": ["General Biochemistry, Genetics and Molecular Biology", "General Physics and Astronomy", "General Chemistry"]}
 {"DOI": "10.1038/s41598-018-28808-w", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Scientific Reports"], "subject": null}
 {"DOI": "10.3390/met8070480", "publisher": "MDPI AG", "is-referenced-by-count": 0, "container-title": ["Metals"], "subject": null}
 {"DOI": "10.3389/fmars.2018.00342", "publisher": "Frontiers Media SA", "is-referenced-by-count": 0, "container-title": ["Frontiers in Marine Science"], "subject": null}
@@ -4493,7 +4493,7 @@
 {"DOI": "10.18332/tid/83951", "publisher": "E.U. European Publishing", "is-referenced-by-count": 0, "container-title": ["Tobacco Induced Diseases"], "subject": null}
 {"DOI": "10.3390/app8071135", "publisher": "MDPI AG", "is-referenced-by-count": 1, "container-title": ["Applied Sciences"], "subject": null}
 {"DOI": "10.1111/cxo.12569", "publisher": "Wiley", "is-referenced-by-count": 0, "container-title": ["Clinical and Experimental Optometry"], "subject": null}
-{"DOI": "10.1109/tnsre.2018.2848883", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 0, "container-title": ["IEEE Transactions on Neural Systems and Rehabilitation Engineering"], "subject": null}
+{"DOI": "10.1109/tnsre.2018.2848883", "publisher": "Institute of Electrical and Electronics Engineers (IEEE)", "is-referenced-by-count": 1, "container-title": ["IEEE Transactions on Neural Systems and Rehabilitation Engineering"], "subject": null}
 {"DOI": "10.3934/mbe.2018021", "publisher": "American Institute of Mathematical Sciences (AIMS)", "is-referenced-by-count": 0, "container-title": ["Mathematical Biosciences and Engineering"], "subject": null}
 {"DOI": "10.1021/acsomega.8b02448", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 0, "container-title": ["ACS Omega"], "subject": null}
 {"DOI": "10.14336/ad.2017.1223", "publisher": "Aging and Disease", "is-referenced-by-count": 0, "container-title": ["Aging and disease"], "subject": null}
@@ -4501,7 +4501,7 @@
 {"DOI": "10.3390/coatings8120443", "publisher": "MDPI AG", "is-referenced-by-count": 0, "container-title": ["Coatings"], "subject": null}
 {"DOI": "10.1038/s41467-018-07547-6", "publisher": "Springer Nature", "is-referenced-by-count": 4, "container-title": ["Nature Communications"], "subject": null}
 {"DOI": "10.1021/acsomega.8b00513", "publisher": "American Chemical Society (ACS)", "is-referenced-by-count": 1, "container-title": ["ACS Omega"], "subject": null}
-{"DOI": "10.1186/s12877-018-0964-3", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["BMC Geriatrics"], "subject": null}
+{"DOI": "10.1186/s12877-018-0964-3", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["BMC Geriatrics"], "subject": null}
 {"DOI": "10.1503/cmaj.171238", "publisher": "Joule Inc.", "is-referenced-by-count": 0, "container-title": ["Canadian Medical Association Journal"], "subject": null}
 {"DOI": "10.1007/jhep10(2018)049", "publisher": "Springer Nature", "is-referenced-by-count": 3, "container-title": ["Journal of High Energy Physics"], "subject": null}
 {"DOI": "10.3758/s13414-017-1414-6", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Attention, Perception, & Psychophysics"], "subject": null}
@@ -4537,7 +4537,7 @@
 {"DOI": "10.1186/s12913-018-3552-5", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["BMC Health Services Research"], "subject": null}
 {"DOI": "10.1007/978-3-319-89963-3_22", "publisher": "Springer International Publishing", "is-referenced-by-count": 1, "container-title": ["Tools and Algorithms for the Construction and Analysis of Systems", "Lecture Notes in Computer Science"], "subject": null}
 {"DOI": "10.1007/jhep11(2018)174", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Journal of High Energy Physics"], "subject": null}
-{"DOI": "10.1017/jfm.2018.546", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 0, "container-title": ["Journal of Fluid Mechanics"], "subject": null}
+{"DOI": "10.1017/jfm.2018.546", "publisher": "Cambridge University Press (CUP)", "is-referenced-by-count": 0, "container-title": ["Journal of Fluid Mechanics"], "subject": ["Mechanical Engineering", "Mechanics of Materials", "Condensed Matter Physics"]}
 {"DOI": "10.1186/s12937-018-0380-8", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Nutrition Journal"], "subject": null}
 {"DOI": "10.17269/s41997-018-0133-7", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Canadian Journal of Public Health"], "subject": null}
 {"DOI": "10.3390/metabo8040059", "publisher": "MDPI AG", "is-referenced-by-count": 1, "container-title": ["Metabolites"], "subject": null}
@@ -4681,7 +4681,7 @@
 {"DOI": "10.7716/aem.v7i4.883", "publisher": "Advanced Electromagnetics", "is-referenced-by-count": 0, "container-title": ["Advanced Electromagnetics"], "subject": null}
 {"DOI": "10.1088/1742-6596/1063/1/012127", "publisher": "IOP Publishing", "is-referenced-by-count": 1, "container-title": ["Journal of Physics: Conference Series"], "subject": null}
 {"DOI": "10.1088/1742-6596/1063/1/012059", "publisher": "IOP Publishing", "is-referenced-by-count": 0, "container-title": ["Journal of Physics: Conference Series"], "subject": null}
-{"DOI": "10.1039/c8ee01053f", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 62, "container-title": ["Energy & Environmental Science"], "subject": null}
+{"DOI": "10.1039/c8ee01053f", "publisher": "Royal Society of Chemistry (RSC)", "is-referenced-by-count": 66, "container-title": ["Energy & Environmental Science"], "subject": null}
 {"DOI": "10.3758/s13428-018-1020-0", "publisher": "Springer Nature", "is-referenced-by-count": 2, "container-title": ["Behavior Research Methods"], "subject": null}
 {"DOI": "10.1186/s13643-018-0767-9", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Systematic Reviews"], "subject": null}
 {"DOI": "10.1136/tobaccocontrol-2018-054494", "publisher": "BMJ", "is-referenced-by-count": 0, "container-title": ["Tobacco Control"], "subject": null}
@@ -4693,4 +4693,4 @@
 {"DOI": "10.21656/1000-0887.380273", "publisher": "Applied Mathematics and Mechanics", "is-referenced-by-count": 0, "container-title": ["\u5e94\u7528\u6570\u5b66\u548c\u529b\u5b66", "Applied Mathematics and Mechanics"], "subject": null}
 {"DOI": "10.1090/proc/13967", "publisher": "American Mathematical Society (AMS)", "is-referenced-by-count": 0, "container-title": ["Proceedings of the American Mathematical Society"], "subject": null}
 {"DOI": "10.1016/j.cjca.2018.04.021", "publisher": "Elsevier BV", "is-referenced-by-count": 5, "container-title": ["Canadian Journal of Cardiology"], "subject": null}
-{"DOI": "10.1007/s11482-018-9648-6", "publisher": "Springer Nature", "is-referenced-by-count": 0, "container-title": ["Applied Research in Quality of Life"], "subject": null}
+{"DOI": "10.1007/s11482-018-9648-6", "publisher": "Springer Nature", "is-referenced-by-count": 1, "container-title": ["Applied Research in Quality of Life"], "subject": null}

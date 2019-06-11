@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os
 import csv
 import json
 from urllib.request import urlopen
@@ -16,6 +17,15 @@ xrefFoI = ['DOI', 'publisher', 'is-referenced-by-count', 'container-title',
 
 agencyURL = 'https://api.crossref.org/works/{0}/agency'
 
+def rmfile(fpath):
+    try:
+        os.remove(fpath)
+    except:
+        pass
+
+for fn in ['xref404.csv', 'xrefErrors.json', 'xrefData.json']:
+    rmfile(fn)
+
 with open('combined.csv', 'rt') as infile:
     rdr = csv.DictReader(infile)
     for l in rdr:
@@ -26,8 +36,8 @@ with open('combined.csv', 'rt') as infile:
             try:
                 resp2 = urlopen(agencyURL.format(doi))
             except HTTPError as e2:
-                print(doi)
-                print(e2)
+                with open('xref404.csv', 'at') as notfound:
+                    notfound.write(doi + ',' + str(e2) + '\n')
                 continue
             agencyJSON = resp2.read().decode('utf-8')
             agencyResp = json.loads(agencyJSON)
