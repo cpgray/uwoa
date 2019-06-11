@@ -17,6 +17,7 @@ xrefFoI = ['DOI', 'publisher', 'is-referenced-by-count', 'container-title',
 
 agencyURL = 'https://api.crossref.org/works/{0}/agency'
 
+## delete any remaining files from any previous run
 def rmfile(fpath):
     try:
         os.remove(fpath)
@@ -26,6 +27,7 @@ def rmfile(fpath):
 for fn in ['xref404.csv', 'xrefErrors.json', 'xrefData.json']:
     rmfile(fn)
 
+## do a Crossref look up for each DOI
 with open('combined.csv', 'rt') as infile:
     rdr = csv.DictReader(infile)
     for l in rdr:
@@ -33,9 +35,11 @@ with open('combined.csv', 'rt') as infile:
         try:
             resp = urlopen(xrefURL.format(doi))
         except HTTPError as e:
+            ## capture agencies for DOIs with not data in the API
             try:
                 resp2 = urlopen(agencyURL.format(doi))
             except HTTPError as e2:
+                ## capture DOIs that have no agency data
                 with open('xref404.csv', 'at') as notfound:
                     notfound.write(doi + ',' + str(e2) + '\n')
                 continue
