@@ -19,7 +19,7 @@
 * remove items without DOIs
 * filter the rows for the fields that have been requested
 * combine rows with the same DOI into one line
-* keep track in which files each DOI comes from
+* keep track which files each DOI comes from
 * write out the combined and filtered files to:
     * combined.csv
 
@@ -32,14 +32,22 @@
     * container-title
     * subject
 * add time delay in loop
-* use URL https://api.crossref.org/works/{doi}?mailto=libxrefclient@library.uwaterloo.ca
-* output data as:
+* use URL `https://api.crossref.org/works/{doi}?mailto=libxrefclient@library.uwaterloo.ca`
+* cache data (to avoid unnecessarily taxing Crossref API) in:
     * xrefData.json
 * if reponse is 404, meaning no Crossref data for that DOI:
     * query Crossref for agency that registered the DOI
     * output agency for each DOI to:
         * xrefErrors.json
-    * if reponse to agency query is 404
-        * output 404 DOIs to:
-	    * xref404.csv
-    
+    * if reponse to agency query is 404, output DOIs to:
+        * xref404.csv
+
+## convert json Crossref data to CSV -- json2csv.py
+* take each line in the json file:
+    * xrefData.json
+* convert them to dictionaries and write data out as a CSV file:
+    * xrefData.csv
+* take each line from the agency lookup json:
+    * xrefErrors.json
+* convert to dictionaries and write data out as CSV file:
+    * xrefAgencies.csv
