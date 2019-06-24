@@ -1,32 +1,38 @@
 #! /usr/bin/env python3
+
 import csv
 import os
-import json
-import urllib.request
-from collections import Counter
 from urllib.parse import quote
 from pprint import pprint as ppr
 
-apiurl = 'https://api.unpaywall.org/v2/{0}?email=cpgrayca@uwaterloo.ca'
+fieldmap = {'publisher': 'Xref_pub',
+            'is-referenced-by-count': 'Xref_timesCited',
+            'container-title': 'Xref_jour',
+            'subject': 'Xref_area',
+            'crossref-data': 'in_Xref',
+            'is_oa': 'Unpay_art_is_oa',
+            'journal_is_oa': 'Unpay_jour_is_oa',
+            'oa_status': 'Unpay_art_status'}
+outKeys = ['DOI', 'URL', 'Article Title', 'Authors', 'Source', 'Research Area',
+           'Publication Date', 'Times Cited', 'Xref_pub', 'Xref_timesCited',
+           'Xref_jour', 'Xref_area', 'in_Xref', 'Unpay_art_is_oa',
+           'Unpay_jour_is_oa', 'Unpay_art_status', 'Filename', 'apc cost']
 
-wosdata = []
-with open('data/wos1.csv', 'rt') as wos1:
-    rdr = csv.DictReader(wos1)
+mainData = {}
+with open('unpayAdded.csv', 'rt') as mainfile:
+    rdr = csv.DictReader(mainfile)
+    inFNs = rdr.fieldnames
+    for k in inFNs:
+        if k not in fieldmap.keys():
+            fieldmap[k] = k
     for row in rdr:
-        wosdata.append(row)
+        mainData[row['DOI']] = { fieldmap[k]: row[k] for k in row }
 
-with open('data/wos2.csv', 'rt') as wos2:
-    rdr = csv.DictReader(wos2)
-    fieldnames = rdr.fieldnames
-    for row in rdr:
-        wosdata.append(row)
-        
-#for row in wosdata:
-#    print(row['Source'], row['DOI'])
+outFNs = [ fieldmap[k] for k in inFNs ]
 
 pricelist = []
-for f in os.listdir('apc'):
-    with open('apc/'+f, 'rt', encoding='windows-1252') as fdata:
+for f in os.listdir('../apc'):
+    with open('../apc/'+f, 'rt', encoding='windows-1252') as fdata:
         rdr = csv.DictReader(fdata)
         #print(f, rdr.fieldnames)
         if 'Title' in rdr.fieldnames and 'USD' in rdr.fieldnames:
@@ -54,38 +60,31 @@ for f in os.listdir('apc'):
                 pricelist.append({'File': f, 'Title': row['Journal title'],
                                   'USD': USD})
 
-output = []
-for r in wosdata:
-    #match = False
-    for price in pricelist:
-        if r['Publication Date'] != '2017':
-            continue
-        p = price['Title'].lower()
-        s = r['Source'].lower()
-        if p == s:
-            doi = quote(r['DOI'])
-            try:
-                resp = urllib.request.urlopen(apiurl.format(doi))
-            except:
-                continue
-            content = resp.read().decode('utf-8')
-            data = json.loads(content)
-            #match = True
-            if data['oa_status'] in ['closed', 'green']:
-                continue
-            article = {'doi': r['DOI'], 'apc':price['USD']}
-            article['type'] = data['oa_status']
-            article['title'] = price['Title']
-            output.append(article)
-            #ppr(article)
-            continue
 
-fieldnames = ['doi', 'apc', 'type', 'title'] 
-with open('costs.csv', 'wt') as cost:
-    wtr = csv.DictWriter(cost, fieldnames=fieldnames)
+with open('report.csv', 'wt') as outfile:
+    wtr = csv.DictWriter(outfile, fieldnames=outKeys)
     wtr.writeheader()
-    for i in output:
-        wtr.writerow(i)
+    for k in mainData.keys():
+        r = {}
+        for price in pricelist:
+            p = price['Title'].lower()
+            s = mainData[k]['Source'].lower()
+            if p == s:
+                r = mainData[k]
+                r['apc cost'] = price['USD']
+                continue
+        if r == {}:
+            r = mainData[k]
+            r['apc cost'] = 2100
+        r['URL'] = 'https://dx.doi.org/' + quote(r['DOI'])
+        wtr.writerow(r)
+
+#fieldnames = ['doi', 'apc', 'type', 'title'] 
+#with open('costs.csv', 'wt') as cost:
+#    wtr = csv.DictWriter(cost, fieldnames=fieldnames)
+#    wtr.writeheader()
+#    for i in output:
+#        wtr.writerow(i)
 
 #fieldnames = ['File', 'Title', 'USD']
 #with open('pricelist.csv', 'wt') as pl:
