@@ -79,11 +79,11 @@ with open('report.csv', 'wt') as outfile:
         for price in pricelist:
             p = price['Title'].lower()
             s = mainData[k]['Source'].lower()
-            if p == s:
+            if p == s or p[4:] == s:
                 r = mainData[k]
                 r['apc cost'] = price['USD']
                 r['cost source'] = price['File']
-                continue
+                break
         if r == {}:
             mp = process.extract(mainData[k]['Xref_pub'], sherptitles,
                                  scorer=fuzz.token_sort_ratio,
