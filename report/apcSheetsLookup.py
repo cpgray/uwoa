@@ -3,6 +3,8 @@
 import csv
 import os
 from urllib.parse import quote
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 from pprint import pprint as ppr
 
 fieldmap = {'publisher': 'Xref_pub',
@@ -16,7 +18,8 @@ fieldmap = {'publisher': 'Xref_pub',
 outKeys = ['DOI', 'URL', 'Article Title', 'Authors', 'Source', 'Research Area',
            'Publication Date', 'Times Cited', 'Xref_pub', 'Xref_timesCited',
            'Xref_jour', 'Xref_area', 'in_Xref', 'Unpay_art_is_oa',
-           'Unpay_jour_is_oa', 'Unpay_art_status', 'Filename', 'apc cost']
+           'Unpay_jour_is_oa', 'Unpay_art_status', 'Filename', 'apc cost',
+           'cost source']
 
 mainData = {}
 with open('unpayAdded.csv', 'rt') as mainfile:
@@ -60,7 +63,14 @@ for f in os.listdir('../apc'):
                 pricelist.append({'File': f, 'Title': row['Journal title'],
                                   'USD': USD})
 
-
+sherptitles = []
+sherpprices = {}
+with open('../sherp/costs.csv', 'rt') as costs:
+    rdr = csv.DictReader(costs)
+    for row in rdr:
+        sherptitles.append(row['publisher'])
+        sherpprices[row['publisher']] = row
+                
 with open('report.csv', 'wt') as outfile:
     wtr = csv.DictWriter(outfile, fieldnames=outKeys)
     wtr.writeheader()
@@ -72,10 +82,20 @@ with open('report.csv', 'wt') as outfile:
             if p == s:
                 r = mainData[k]
                 r['apc cost'] = price['USD']
+                r['cost source'] = price['File']
                 continue
         if r == {}:
-            r = mainData[k]
-            r['apc cost'] = 2100
+            mp = process.extract(mainData[k]['Xref_pub'], sherptitles,
+                                 scorer=fuzz.token_sort_ratio,
+                                 limit=1)
+            if mp[0][1] > 86:
+                r = mainData[k]
+                r['apc cost'] = sherpprices[mp[0][0]]['price']
+                r['cost source'] = 'SHERPA/ROMEO'
+            else:
+                r = mainData[k]
+                r['apc cost'] = 2100
+                r['cost source'] = 'Default Value'
         doi = quote(r['DOI'])
         url = 'https://dx.doi.org/{0}'.format(doi)
         r['URL'] = '=HYPERLINK("{0}")'.format(url)
