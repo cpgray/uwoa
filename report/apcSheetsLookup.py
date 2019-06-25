@@ -79,37 +79,3 @@ with open('report.csv', 'wt') as outfile:
         r['URL'] = 'https://dx.doi.org/' + quote(r['DOI'])
         wtr.writerow(r)
 
-#fieldnames = ['doi', 'apc', 'type', 'title'] 
-#with open('costs.csv', 'wt') as cost:
-#    wtr = csv.DictWriter(cost, fieldnames=fieldnames)
-#    wtr.writeheader()
-#    for i in output:
-#        wtr.writerow(i)
-
-#fieldnames = ['File', 'Title', 'USD']
-#with open('pricelist.csv', 'wt') as pl:
-#    wtr = csv.DictWriter(pl, fieldnames=fieldnames)
-#    wtr.writeheader()
-#    for r in pricelist:
-#        wtr.writerow(r)
-
-#matched = []
-#unmatched = []
-#for row in wosdata:
-#    match = False
-#    for price in pricelist:
-#        p = price['Title'].lower()
-#        s = row['Source'].lower()
-#        if p == s:
-#            matched.append(row['Source'])
-#            match = True
-#    else:
-#        if not match:
-#            unmatched.append(row['Source']) 
-
-#print(unmatched)
-#print(len(unmatched))
-#c = Counter(matched)
-#for k, v in c.most_common():
-#    print('{}\t{}'.format(v, k))
-#print(sum(c.values()))
