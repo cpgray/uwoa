@@ -76,6 +76,8 @@ with open('report.csv', 'wt') as outfile:
         if r == {}:
             r = mainData[k]
             r['apc cost'] = 2100
-        r['URL'] = 'https://dx.doi.org/' + quote(r['DOI'])
+        doi = quote(r['DOI'])
+        url = 'https://dx.doi.org/{0}'.format(doi)
+        r['URL'] = '=HYPERLINK("{0}")'.format(url)
         wtr.writerow(r)
 
