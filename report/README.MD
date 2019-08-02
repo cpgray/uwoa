@@ -8,10 +8,17 @@
     * shannon2.csv
     * shannon3.csv
     * shannon4.csv
-* decode from windows-1251 into utf-8
+* decode from Latin-1 into utf-8
 * remove the summaries at the bottom of the data
 * output list of original file names and new names:
     * fileOrigins.csv
+
+### Second batch of files -- clean2.py
+* 3 new files from Shannon that include all UW publications not just OA
+* create new files with names: shannon-Aug2019n.csv
+* decode from Latin-1 into utf-8
+* replace DOS endlines (with dos2unix) which is creating double spacing
+* remove metadata at head and tail of CSV files
 
 ## Filter and deduplicate files -- combine.py
 * for the new files listed in:

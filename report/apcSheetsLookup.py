@@ -35,7 +35,7 @@ outFNs = [ fieldmap[k] for k in inFNs ]
 
 pricelist = []
 for f in os.listdir('../apc'):
-    with open('../apc/'+f, 'rt', encoding='windows-1252') as fdata:
+    with open('../apc/'+f, 'rt', encoding='Latin-1') as fdata:
         rdr = csv.DictReader(fdata)
         #print(f, rdr.fieldnames)
         if 'Title' in rdr.fieldnames and 'USD' in rdr.fieldnames:

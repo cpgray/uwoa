@@ -15,7 +15,7 @@ for i, f in enumerate(files):
     newFn = 'shannon' + str(i) + '.csv'
     newFiles.append( (newFn, f) )
     fn = os.path.join('../data', f)
-    with open(fn, 'rt', encoding='windows-1251') as infile:
+    with open(fn, 'rt', encoding='Latin-1') as infile:
         with open(newFn, 'wt') as outfile:
             for l in infile.readlines():
                 if ',,,,,,,,' in l:
