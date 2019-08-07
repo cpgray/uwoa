@@ -5,19 +5,19 @@ import csv
 
 fieldsOfInterest = ['DOI', 'Article Title', 'Authors', 'Source',
                     'Research Area', 'Publication Date', 'Times Cited']
-ScopusFoI = ['DOI', 'Title', 'Authors', 'Source title', 'Index Keywords',
-             'Year', 'Cited by']
+ScopusFoI = ['DOI', 'Title', 'Authors', 'Scopus Source title',
+             'Index Keywords', 'Year', 'Cited by']
 Scopus2WoS = {'DOI': 'DOI',
               'Title': 'Article Title',
               'Authors': 'Authors',
-              'Source title': 'Source',
+              'Scopus Source title': 'Source',
               'Index Keywords': 'Research Area',
               'Year': 'Publication Date',
               'Cited by': 'Times Cited'}
 
 ## combine/filter: reduce fields, deduplicate, remove items without DOIs
 newFiles = []
-with open('fileOrigins.csv', 'rt') as infiles:
+with open('fileOrigins-Aug2019.csv', 'rt') as infiles:
     rdr = csv.DictReader(infiles)
     for row in rdr:
         newFiles.append( (row['New'], row['Old']) )
@@ -41,7 +41,7 @@ for n, o in newFiles:
                 newRows[doi] = newRow
 
 ## create new output file with all data combined and filtered
-with open('combined.csv', 'wt') as outfile:
+with open('combined-2019.csv', 'wt') as outfile:
     wtr = csv.DictWriter(outfile,
                          fieldnames = fieldsOfInterest + ['Filename'])
     wtr.writeheader()
