@@ -6,14 +6,16 @@ import csv
 fieldsOfInterest = ['DOI', 'Article Title', 'Authors', 'Source',
                     'Research Area', 'Publication Date', 'Times Cited']
 ScopusFoI = ['DOI', 'Title', 'Authors', 'Scopus Source title',
-             'Index Keywords', 'Year', 'Cited by']
+             'All Science Journal Classification (ASJC) Field Name', 'Year',
+             'Citations']
 Scopus2WoS = {'DOI': 'DOI',
               'Title': 'Article Title',
               'Authors': 'Authors',
               'Scopus Source title': 'Source',
-              'Index Keywords': 'Research Area',
+              'All Science Journal Classification (ASJC) Field Name':
+              'Research Area',
               'Year': 'Publication Date',
-              'Cited by': 'Times Cited'}
+              'Citations': 'Times Cited'}
 
 ## combine/filter: reduce fields, deduplicate, remove items without DOIs
 newFiles = []
@@ -27,8 +29,10 @@ for n, o in newFiles:
     with open(n, 'rt') as infile:
         rdr = csv.DictReader(infile)
         for row in rdr:
+            if row.get('Document Type') != 'Article' and row.get('Publication-type') != 'Article':
+                continue
             doi = row['DOI']
-            if doi == 'n/a':
+            if doi == 'n/a' or doi == '-':
                 continue
             if 'Title' in row.keys():
                 for k in ScopusFoI:
