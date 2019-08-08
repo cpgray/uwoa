@@ -58,3 +58,5 @@
     * xrefErrors.json
 * convert to dictionaries and write data out as CSV file:
     * xrefAgencies.csv
+
+## merge Crossref data with initial data -- mergeXref.py

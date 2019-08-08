@@ -13,24 +13,24 @@ mergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Source',
              'crossref-data']
 
 dataWoSScopus = {}
-with open('combined.csv', 'rt') as wsd:
+with open('combined-2019.csv', 'rt') as wsd:
     rdr= csv.DictReader(wsd)
     for r in rdr:
         dataWoSScopus[r['DOI']] = r
     
 xrefData = {}
-with open('xrefData.csv', 'rt') as xrd:
+with open('xrefData-2019.csv', 'rt') as xrd:
     rdr = csv.DictReader(xrd)
     for r in rdr:
         xrefData[r['DOI']] = r
 
 xrefOther = {}
-with open('xrefAgencies.csv', 'rt') as xro:
+with open('xrefAgencies-2019.csv', 'rt') as xro:
     rdr = csv.DictReader(xro)
     for r in rdr:
         xrefOther[r['DOI']] = r
 
-with open('xrefMerged.csv', 'wt') as xmcsv:
+with open('xrefMerged-2019.csv', 'wt') as xmcsv:
     wtr = csv.DictWriter(xmcsv, fieldnames = mergedFoI)
     wtr.writeheader()
     for k in dataWoSScopus:
