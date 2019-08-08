@@ -9,8 +9,8 @@ fieldnames = ['DOI', 'publisher', 'is-referenced-by-count', 'container-title',
 def removeEOL(str):
     return str.replace('\n', ' ').replace('\r', ' ')
 
-with open('xrefData.json', 'rt') as injson:
-    with open('xrefData.csv', 'wt') as outfile:
+with open('xrefData-2019.json', 'rt') as injson:
+    with open('xrefData-2019.csv', 'wt') as outfile:
         wtr = csv.DictWriter(outfile, fieldnames=fieldnames)
         wtr.writeheader()
         for i in injson.readlines():
@@ -27,8 +27,8 @@ with open('xrefData.json', 'rt') as injson:
             wtr.writerow(item)
 
 agencyfieldnames = ['DOI', 'agency id', 'agency label']
-with open('xrefErrors.json', 'rt') as inagency:
-    with open('xrefAgencies.csv', 'wt') as outagency:
+with open('xrefErrors-2019.json', 'rt') as inagency:
+    with open('xrefAgencies-2019.csv', 'wt') as outagency:
         wtr = csv.DictWriter(outagency, fieldnames = agencyfieldnames)
         wtr.writeheader()
         for i in inagency.readlines():
