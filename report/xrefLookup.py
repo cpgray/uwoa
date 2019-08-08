@@ -28,7 +28,7 @@ for fn in ['xref404.csv', 'xrefErrors.json', 'xrefData.json']:
     rmfile(fn)
 
 ## do a Crossref look up for each DOI
-with open('combined.csv', 'rt') as infile:
+with open('combined-2019.csv', 'rt') as infile:
     rdr = csv.DictReader(infile)
     for l in rdr:
         doi = quote(l['DOI'])
@@ -40,14 +40,14 @@ with open('combined.csv', 'rt') as infile:
                 resp2 = urlopen(agencyURL.format(doi))
             except HTTPError as e2:
                 ## capture DOIs that have no agency data
-                with open('xref404.csv', 'at') as notfound:
+                with open('xref404-2019.csv', 'at') as notfound:
                     notfound.write(l['DOI'] + ',' + str(e2) + '\n')
                 continue
             agencyJSON = resp2.read().decode('utf-8')
             agencyResp = json.loads(agencyJSON)
             data = agencyResp['message']
             data['DOI'] = l['DOI']
-            with open('xrefErrors.json', 'at') as errout:
+            with open('xrefErrors-2019.json', 'at') as errout:
                 errout.write(json.dumps(data) + '\n')
             continue
         xrefJSON = resp.read().decode('utf-8')
@@ -56,6 +56,6 @@ with open('combined.csv', 'rt') as infile:
             xrefData = xrefResp['message']
             filtered = { k: xrefData.get(k) for k in xrefFoI }
             filtered['DOI'] = l['DOI']
-            with open('xrefData.json', 'at') as outfile:
+            with open('xrefData-2019.json', 'at') as outfile:
                 outfile.write(json.dumps(filtered) + '\n')
         sleep(0.1)
