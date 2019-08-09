@@ -60,3 +60,7 @@
     * xrefAgencies.csv
 
 ## merge Crossref data with initial data -- mergeXref.py
+
+## look up data from Unpaywall -- unpayLookup.py
+
+## add data from APC spreadsheets to get report -- apcSheetsLookup.py

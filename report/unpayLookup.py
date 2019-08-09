@@ -15,9 +15,9 @@ xrefMergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Source',
 unpayFoI = ['is_oa', 'journal_is_oa', 'oa_status']
 mergedFoI = xrefMergedFoI + unpayFoI
 
-with open('xrefMerged.csv', 'rt') as infile:
+with open('xrefMerged-2019.csv', 'rt') as infile:
     rdr = csv.DictReader(infile)
-    with open('unpayAdded.csv', 'wt') as outfile:
+    with open('unpayAdded-2019.csv', 'wt') as outfile:
         wtr = csv.DictWriter(outfile, fieldnames=mergedFoI)
         wtr.writeheader()
         for row in rdr:
@@ -28,6 +28,11 @@ with open('xrefMerged.csv', 'rt') as infile:
                 for k in unpayFoI:
                     row[k] = None
                 wtr.writerow(row)
+                continue
+            except Exception as e:
+                print('Not an HTTPError')
+                print('DOI: ', doi)
+                print(e)
                 continue
             unpayJSON = resp.read().decode('utf-8')
             unpayResp = json.loads(unpayJSON)
