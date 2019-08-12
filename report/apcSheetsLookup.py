@@ -22,7 +22,7 @@ outKeys = ['DOI', 'URL', 'Article Title', 'Authors', 'Source', 'Research Area',
            'cost source']
 
 mainData = {}
-with open('unpayAdded.csv', 'rt') as mainfile:
+with open('unpayAdded-2019.csv', 'rt') as mainfile:
     rdr = csv.DictReader(mainfile)
     inFNs = rdr.fieldnames
     for k in inFNs:
@@ -71,31 +71,36 @@ with open('../sherp/costs.csv', 'rt') as costs:
         sherptitles.append(row['publisher'])
         sherpprices[row['publisher']] = row
                 
-with open('report.csv', 'wt') as outfile:
+with open('report-2019.csv', 'wt') as outfile:
     wtr = csv.DictWriter(outfile, fieldnames=outKeys)
     wtr.writeheader()
     for k in mainData.keys():
         r = {}
-        for price in pricelist:
-            p = price['Title'].lower()
-            s = mainData[k]['Source'].lower()
-            if p == s or p[4:] == s:
-                r = mainData[k]
-                r['apc cost'] = price['USD']
-                r['cost source'] = price['File']
-                break
-        if r == {}:
-            mp = process.extract(mainData[k]['Xref_pub'], sherptitles,
-                                 scorer=fuzz.token_sort_ratio,
-                                 limit=1)
-            if mp[0][1] > 86:
-                r = mainData[k]
-                r['apc cost'] = sherpprices[mp[0][0]]['price']
-                r['cost source'] = 'SHERPA/ROMEO'
-            else:
-                r = mainData[k]
-                r['apc cost'] = 2100
-                r['cost source'] = 'Default Value'
+        if mainData[k]['Unpay_art_status'] == 'closed':
+            r = mainData[k]
+            r['apc cost'] = None
+            r['cost source'] = None
+        else:
+            for price in pricelist:
+                p = price['Title'].lower()
+                s = mainData[k]['Source'].lower()
+                if p == s or p[4:] == s:
+                    r = mainData[k]
+                    r['apc cost'] = price['USD']
+                    r['cost source'] = price['File']
+                    break
+            if r == {}:
+                mp = process.extract(mainData[k]['Xref_pub'], sherptitles,
+                                     scorer=fuzz.token_sort_ratio,
+                                     limit=1)
+                if mp[0][1] > 86:
+                    r = mainData[k]
+                    r['apc cost'] = sherpprices[mp[0][0]]['price']
+                    r['cost source'] = 'SHERPA/ROMEO'
+                else:
+                    r = mainData[k]
+                    r['apc cost'] = 2100
+                    r['cost source'] = 'Default Value'
         doi = quote(r['DOI'])
         url = 'https://dx.doi.org/{0}'.format(doi)
         r['URL'] = '=HYPERLINK("{0}")'.format(url)
