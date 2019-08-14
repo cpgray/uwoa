@@ -15,11 +15,11 @@ fieldmap = {'publisher': 'Xref_pub',
             'is_oa': 'Unpay_art_is_oa',
             'journal_is_oa': 'Unpay_jour_is_oa',
             'oa_status': 'Unpay_art_status'}
-outKeys = ['DOI', 'URL', 'Article Title', 'Authors', 'Source', 'Research Area',
-           'Publication Date', 'Times Cited', 'Xref_pub', 'Xref_timesCited',
-           'Xref_jour', 'Xref_area', 'in_Xref', 'Unpay_art_is_oa',
-           'Unpay_jour_is_oa', 'Unpay_art_status', 'Filename', 'apc cost',
-           'cost source']
+outKeys = ['DOI', 'URL', 'Article Title', 'Authors', 'Institutions', 'Source',
+           'Research Area', 'Publication Date', 'Times Cited', 'Xref_pub',
+           'Xref_timesCited', 'Xref_jour', 'Xref_area', 'in_Xref',
+           'Unpay_art_is_oa', 'Unpay_jour_is_oa', 'Unpay_art_status',
+           'Filename', 'apc cost', 'cost source']
 
 mainData = {}
 with open('unpayAdded-2019.csv', 'rt') as mainfile:
