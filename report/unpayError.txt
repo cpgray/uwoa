@@ -1,3 +1,8 @@
 Not an HTTPError
 DOI:  10.1007/s00221-014-3887-z
 <urlopen error [Errno 0] Error>
+
+Not an HTTPError
+DOI:  10.1007/s10994-015-5535-7
+Remote end closed connection without response
+

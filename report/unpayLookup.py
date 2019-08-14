@@ -8,10 +8,10 @@ from urllib.error import HTTPError
 
 unpayurl = 'https://api.unpaywall.org/v2/{0}?email=cpgrayca@uwaterloo.ca'
 
-xrefMergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Source',
-             'Research Area', 'Publication Date', 'Times Cited', 'publisher',
-             'is-referenced-by-count', 'container-title', 'subject',
-             'crossref-data']
+xrefMergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Institutions',
+                 'Source', 'Research Area', 'Publication Date', 'Times Cited',
+                 'publisher', 'is-referenced-by-count', 'container-title',
+                 'subject', 'crossref-data']
 unpayFoI = ['is_oa', 'journal_is_oa', 'oa_status']
 mergedFoI = xrefMergedFoI + unpayFoI
 
