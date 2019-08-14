@@ -3,14 +3,14 @@
 import csv
 from pprint import pprint
 
-bibFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Source',
-          'Research Area', 'Publication Date', 'Times Cited']
+bibFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Institutions',
+          'Source', 'Research Area', 'Publication Date', 'Times Cited']
 xrefFoI = ['DOI', 'publisher', 'is-referenced-by-count',
            'container-title', 'subject']
-mergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Source',
-             'Research Area', 'Publication Date', 'Times Cited', 'publisher',
-             'is-referenced-by-count', 'container-title', 'subject',
-             'crossref-data']
+mergedFoI = ['DOI', 'Filename', 'Article Title', 'Authors', 'Institutions',
+             'Source', 'Research Area', 'Publication Date', 'Times Cited',
+             'publisher', 'is-referenced-by-count', 'container-title',
+             'subject', 'crossref-data']
 
 dataWoSScopus = {}
 with open('combined-2019.csv', 'rt') as wsd:
